@@ -17,11 +17,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<select name="orderby" class="orderby">
 			<?php $catalog_orderby_options = apply_filters( 'woocommerce_catalog_orderby', array(
 						'menu_order' => __( 'Default sorting', 'uberstore' ),
-						'popularity' => __( 'Sort by popularity', 'uberstore'),
-						'rating'     => __( 'Sort by average rating', 'uberstore' ),
-						'date'       => __( 'Sort by newness', 'uberstore'),
-						'price'      => __( 'Sort by price: low to high', 'uberstore' ),
-						'price-desc' => __( 'Sort by price: high to low', 'uberstore' )
+						'popularity' => __( 'Sort by popularitas', 'uberstore'),
+						'rating'     => __( 'Sort by rating', 'uberstore' ),
+						'date'       => __( 'Sort by terbaru', 'uberstore'),
+						'price'      => __( 'Sort by harga: low to high', 'uberstore' ),
+						'price-desc' => __( 'Sort by harga: high to low', 'uberstore' )
 					) );
 			?>
 			<?php foreach ( $catalog_orderby_options as $id => $name ) : ?>
