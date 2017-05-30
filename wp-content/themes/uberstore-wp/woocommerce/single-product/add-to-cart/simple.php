@@ -28,7 +28,7 @@ if ( ! $product->is_purchasable() ) return;
 
 	<form class="cart" method="post" enctype='multipart/form-data'>
 		
-		<label><?php _e( 'Quantity', 'uberstore' ); ?></label>
+		<label><?php _e( 'Jumlah', 'uberstore' ); ?></label>
 	 	<?php do_action('woocommerce_before_add_to_cart_button'); ?>
 
 		<?php

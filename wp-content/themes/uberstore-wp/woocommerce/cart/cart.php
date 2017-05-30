@@ -21,9 +21,9 @@ do_action( 'woocommerce_before_cart' ); ?>
 				<tr>
 					<th class="product-remove">&nbsp;</th>
 					<th class="product-thumbnail">&nbsp;</th>
-					<th class="product-name"><?php _e( 'Product', 'uberstore' ); ?></th>
-					<th class="product-price"><?php _e( 'Price', 'uberstore' ); ?></th>
-					<th class="product-quantity"><?php _e( 'Quantity', 'uberstore' ); ?></th>
+					<th class="product-name"><?php _e( 'Produk', 'uberstore' ); ?></th>
+					<th class="product-price"><?php _e( 'Harga', 'uberstore' ); ?></th>
+					<th class="product-quantity"><?php _e( 'Jumlah', 'uberstore' ); ?></th>
 					<th class="product-subtotal"><?php _e( 'SubTotal', 'uberstore' ); ?></th>
 				</tr>
 			</thead>
@@ -122,22 +122,10 @@ do_action( 'woocommerce_before_cart' ); ?>
 			</tbody>
 		</table>
 			<div class="row actions">
-				<div class="small-12 medium-6 columns coupon">
-					<?php if ( WC()->cart->coupons_enabled() ) { ?>
-						<div class="row">
-							<div class="small-12 medium-9 columns">
-								<input type="text" name="coupon_code" id="coupon_code" value="" placeholder="<?php _e( 'Enter Coupon', 'uberstore' ); ?>"/>
-							</div>
-							<div class="small-12 medium-3 columns">
-								<input type="submit" class="btn small black" name="apply_coupon" value="<?php _e( 'Apply Coupon', 'uberstore' ); ?>" />
-							</div>
-						</div>
-						<?php do_action('woocommerce_cart_coupon'); ?>
-					<?php } ?>
-				</div>
+				
 				<div class="small-12 medium-6 columns shoppingbag-buttons">
 
-							<input type="submit" class="button small grey right full" name="update_cart" value="<?php _e( 'Update Cart', 'uberstore' ); ?>" />
+							<input type="submit" class="button small grey right full" name="update_cart" value="<?php _e( 'Perbarui Keranjang', 'uberstore' ); ?>" />
 
 							<?php wp_nonce_field( 'woocommerce-cart' ); ?>
 
