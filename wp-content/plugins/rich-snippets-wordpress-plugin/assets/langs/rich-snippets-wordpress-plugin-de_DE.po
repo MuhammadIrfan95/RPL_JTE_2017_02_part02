@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rich Snippets WordPress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-26 08:03+0100\n"
+"PO-Revision-Date: 2015-10-26 08:03+0100\n"
+"Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
+"Language-Team: WP-Buddy <info@wp-buddy.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../classes/wpb_plugin.php:731
+#, php-format
+msgid ""
+"You should consider entering you purchase code for the %s plugin because you "
+"get every update immediately delivered to your WordPress installation."
+msgstr ""
+"Du solltest deinen Kaufcode (engl. Purchase Code) für das %s Plugin eingeben "
+"damit du immer Up-To-Date bleibst und Updates sofort via WordPress "
+"downloaden kannst."
+
+#: ../../classes/wpb_rich_snippets.php:404
+#: ../../classes/wpb_rich_snippets.php:1478
+#: ../../classes/wpb_rich_snippets.php:1479
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../../classes/wpb_rich_snippets.php:405
+#: ../../classes/wpb_rich_snippets.php:739
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../../classes/wpb_rich_snippets.php:406
+msgid "Edit Shortcode"
+msgstr "Shortcode bearbeiten"
+
+#: ../../classes/wpb_rich_snippets.php:407
+msgid "New Shortcode"
+msgstr "Neuer Shortcode"
+
+#: ../../classes/wpb_rich_snippets.php:408
+msgid "View Shortcode"
+msgstr "Shortcode ansehen"
+
+#: ../../classes/wpb_rich_snippets.php:409
+msgid "Search Shortcodes"
+msgstr "Shortcodes durchsuchen"
+
+#: ../../classes/wpb_rich_snippets.php:410
+msgid "No Shortcodes found"
+msgstr "Kein Shortcode gefunde"
+
+#: ../../classes/wpb_rich_snippets.php:411
+msgid "No Shortcodes found in trash"
+msgstr "Keine Shortcodes im Papierkorb gefunden"
+
+#: ../../classes/wpb_rich_snippets.php:417
+msgid "Allows you to add shortcodes."
+msgstr "Erlaubt es Ihnen Shortcodes hinzuzufügen."
+
+#: ../../classes/wpb_rich_snippets.php:473
+msgid "Options"
+msgstr "Optionen"
+
+#: ../../classes/wpb_rich_snippets.php:483
+msgid "Info & Help"
+msgstr "Infos & Hilfe"
+
+#: ../../classes/wpb_rich_snippets.php:503
+msgid "Helpful links"
+msgstr "Hilfreiche Links"
+
+#: ../../classes/wpb_rich_snippets.php:505
+msgid "Installation manual"
+msgstr "Installationsanleitung  (englisch)"
+
+#: ../../classes/wpb_rich_snippets.php:506
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen (englisch)"
+
+#: ../../classes/wpb_rich_snippets.php:507
+msgid "Report a bug"
+msgstr "Einen Fehler melden (englisch)"
+
+#: ../../classes/wpb_rich_snippets.php:508
+msgid "Request a function"
+msgstr "Eine neue Funktion vorschlagen (englisch)"
+
+#: ../../classes/wpb_rich_snippets.php:509
+msgid "Submit a translation"
+msgstr "Eine Übersetzung einreichen (englisch)"
+
+#: ../../classes/wpb_rich_snippets.php:510
+msgid "More cool stuff by WPBuddy"
+msgstr "Weitere coole Dinge von WPBuddy"
+
+#: ../../classes/wpb_rich_snippets.php:513
+msgid "Like this plugin?"
+msgstr "Sie mögen dieses Plugin?"
+
+#: ../../classes/wpb_rich_snippets.php:540
+msgid "Keep up do date with WPBuddy!"
+msgstr "Bleibe auf dem Laufenden mit WPBuddy!"
+
+#: ../../classes/wpb_rich_snippets.php:550
+msgid "Your first name"
+msgstr "Dein Vorname"
+
+#: ../../classes/wpb_rich_snippets.php:551
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ../../classes/wpb_rich_snippets.php:552
+msgid "Subscribe for free"
+msgstr "Kostenlos eintragen"
+
+#: ../../classes/wpb_rich_snippets.php:591
+msgid "Usage"
+msgstr "Verwendung"
+
+#: ../../classes/wpb_rich_snippets.php:597
+msgid "Attributes"
+msgstr "Attribute"
+
+#: ../../classes/wpb_rich_snippets.php:599
+#: ../../classes/wpb_rich_snippets.php:834
+msgid "Choose the attribute name"
+msgstr "Wählen Sie den Attributnamen"
+
+#: ../../classes/wpb_rich_snippets.php:616
+msgid "Add new attribute"
+msgstr "Neues Attribut hinzufügen"
+
+#: ../../classes/wpb_rich_snippets.php:617
+msgid "HTML / PHP Code"
+msgstr "HTML / PHP Code"
+
+#: ../../classes/wpb_rich_snippets.php:619
+msgid ""
+"If your current PHP installation supports the eval() function you can use "
+"PHP in the textarea below. For this please always start with the &lt;?php "
+"tag. You can use the attributes as the name of the variables."
+msgstr ""
+"Wenn Ihre aktuelle PHP Installation die eval()-Funktion unterstützt können "
+"Sie im unten stehenden Textarea-Feld PHP Code benutzen. Bitte nutzen Sie "
+"dafür nur die &lt;?php - Tags. Sie können die Attribute als Variablen "
+"ansprechen."
+
+#: ../../classes/wpb_rich_snippets.php:621
+msgid "You can use the following placeholders:"
+msgstr "Sie können folgende Platzhalter benutzen:"
+
+#: ../../classes/wpb_rich_snippets.php:649
+msgid "CSS Stylesheets"
+msgstr "CSS Stylesheet"
+
+#: ../../classes/wpb_rich_snippets.php:710
+#: ../../classes/wpb_rich_snippets.php:713
+msgid "Shortcode updated."
+msgstr "Shortcode aktualisiert."
+
+#: ../../classes/wpb_rich_snippets.php:711
+msgid "Custom field updated."
+msgstr "Feld aktualisiert."
+
+#: ../../classes/wpb_rich_snippets.php:712
+msgid "Custom field deleted."
+msgstr "Feld gelöscht."
+
+#: ../../classes/wpb_rich_snippets.php:714
+#, php-format
+msgid "Shortcode restored to revision from %s"
+msgstr "Shortcode Revision vom %s wurde wiederhergestellt. "
+
+#: ../../classes/wpb_rich_snippets.php:715
+msgid "Shortcode can now be used in posts."
+msgstr "Shortcode kann jetzt in Ihren Artikeln und Seiten benutzt werden."
+
+#: ../../classes/wpb_rich_snippets.php:716
+msgid "Shortcode saved."
+msgstr "Shortcode gespeichert."
+
+#: ../../classes/wpb_rich_snippets.php:717
+msgid "Shortcode submitted."
+msgstr "Shortcode eingereicht."
+
+#: ../../classes/wpb_rich_snippets.php:718
+msgid "Shortcode scheduled."
+msgstr "Shortcode geplant."
+
+#: ../../classes/wpb_rich_snippets.php:719
+msgid "Shortcode draft updated."
+msgstr "Shortcode-Entwurf aktualisiert."
+
+#: ../../classes/wpb_rich_snippets.php:817
+msgid "Not named shortcode"
+msgstr "Nicht näher beschriebener Shortcode"
+
+#: ../../classes/wpb_rich_snippets.php:1018
+msgid "No shortcode so far"
+msgstr "Kein Shortcode. Bis jetzt..."
+
+#: ../../classes/wpb_rich_snippets.php:1381
+msgid "Disable capability handling"
+msgstr "Rechte-Verarbeitung abschalten"
+
+#: ../../classes/wpb_rich_snippets.php:1390
+msgid "Capability type"
+msgstr "Rechte-Typ"
+
+#: ../../classes/wpb_rich_snippets.php:1398
+msgid "Meta Cap Map"
+msgstr "Meta Cap Map"
+
+#: ../../classes/wpb_rich_snippets.php:1407
+msgid "Match the roles with the capabilities"
+msgstr "Verbinden Sie die einzelnen Rollen mit den einzelnen Fähigkeiten"
+
+#: ../../classes/wpb_rich_snippets.php:1423
+msgid "Disable shortcodes on feed"
+msgstr "Shortcodes im Feed deaktivieren"
+
+#: ../../classes/wpb_rich_snippets.php:1431
+msgid "Purchase Code"
+msgstr "Kaufcode (Purchase Code)"
+
+#: ../../classes/wpb_rich_snippets.php:1470
+#: ../../classes/wpb_rich_snippets.php:1471
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../../classes/wpb_rich_snippets.php:1523
+msgid "General"
+msgstr "Allgemein"
+
+#: ../../classes/wpb_rich_snippets.php:1536
+msgid "Shortcode settings"
+msgstr "Shortcode Einstellungen"
+
+#: ../../classes/wpb_rich_snippets.php:1588
+msgid ""
+"Activate this checkbox if you have problems with the capability-"
+"functionality (ex. if the menu does not appear)."
+msgstr ""
+"Aktiviere diese Checkbox wenn Du Probleme mit der Rechte-Funktionalität hast "
+"(z.B. wenn das Menü links nicht angezeigt wird)."
+
+#: ../../classes/wpb_rich_snippets.php:1609
+msgid "Keep this at \"rswp-shortcode\" if possible"
+msgstr "Lasse diesen Wert auf \"rswp-shortcode\", wenn möglich."
+
+#: ../../classes/wpb_rich_snippets.php:1629
+msgid "Activate to set the \"map_meta_cap\" value to true."
+msgstr ""
+"Aktiviere diese Checkbox wenn Du den \"map_meta_cap\" Wert auf 1 setzen "
+"willst."
+
+#: ../../classes/wpb_rich_snippets.php:1660
+msgid ""
+"Deactivate the above checkbox and hit the save button to see this options."
+msgstr ""
+"Deaktiviere diese Checkbox und klicke auf den Speichern-Button um weitere "
+"Optionen zu sehen."
+
+#: ../../classes/wpb_rich_snippets.php:1664
+msgid "Role/Capability"
+msgstr "Rolle/Fähigkeit"
+
+#: ../../classes/wpb_rich_snippets.php:1707
+msgid ""
+"Activate this checkbox if you want to deactivate rich snippets shortcodes "
+"when the feed is displayed."
+msgstr ""
+"Aktiviere diese Checkbox, wenn du Rich Snippets Shortcodes bei Feed-"
+"Darstellung deaktivieren willst."
+
+#: ../../classes/wpb_rich_snippets.php:1725
+msgid "Enter your purchase code in order to get automatic updates!"
+msgstr ""
+"Geben Sie hier Ihren Kaufcode (Purchase Code) ein um automatisch Updates zu "
+"erhalten."
+
+#: ../../classes/wpb_rich_snippets.php:1725
+msgid "Click here if you do not know where to find your purchase code."
+msgstr ""
+"Klicken Sie hier, wenn Sie nicht wissen, wo Sie Ihren Kaufcode finden können "
+"(englisch)."
+
+#: ../../classes/wpb_rich_snippets.php:1787
+msgid ""
+"You have been redirected because you do not have permission to access that "
+"page."
+msgstr ""
+"Sie wurden umgeleitet weil Sie keine Berechtigung haben auf diese Seite "
+"zuzugreifen."
+
+#: ../../classes/wpb_rich_snippets.php:1976
+msgid "Add Shortcodes"
+msgstr "Shortcodes hinzufügen"
+
+#: ../../classes/wpb_rich_snippets.php:2002
+msgid "There are no attributes for this shortcode"
+msgstr "Dieser Shortcode hat keine Attribute"
+
+#: ../../classes/wpb_rich_snippets.php:2029
+msgid "Insert"
+msgstr "Einfügen"
+
+#~ msgid "Google Plus Author Link"
+#~ msgstr "Google Plus Author Link"
+
+#~ msgid "Please enter the URL to your Google+ Profile."
+#~ msgstr "Geben Sie die URL zu Ihrem Google+ Profil an."
+
+#~ msgid "Google Plus Author (Extended)"
+#~ msgstr "Google Plus Author (Erweiterte Version)"
+
+#~ msgid "Help"
+#~ msgstr "Hilfe"
+
+#~ msgid "Earn money"
+#~ msgstr "Empfehlen und verdienen"
+
+#~ msgid "Test"
+#~ msgstr "Test"
+
+#~ msgid "Google Plus Author Information in Search Results (Extended Edition)"
+#~ msgstr ""
+#~ "Google Plus Author Information in Search Results (Erweiterte Version)"
+
+#~ msgid ""
+#~ "This plugin will replace your author link in your theme with your Google+ "
+#~ "Profile link to make sure that your Google+ profile picture will be shown "
+#~ "at the Google search results."
+#~ msgstr ""
+#~ "Dieses Plugin ersetzt den Autoren-Link im Theme mit einem speziellen "
+#~ "Google+-Link. Damit wird in den Google Suchergebnissen jeweils ein "
+#~ "Profilbild des Autors mit angezeigt."
+
+#~ msgid ""
+#~ "Alternatively the link can be included in the content if your theme does "
+#~ "not show the author  link."
+#~ msgstr ""
+#~ "Alternativ kann der Link auch im Inhaltsbereich eingefügt werden wenn das "
+#~ "aktuell gewählte Theme keine Autorenlinks anzeigt."
+
+#~ msgid "A) Set up authorship by linking your content to your Google+ profile"
+#~ msgstr ""
+#~ "A) Richten Sie die Urheberschaft ein, indem Sie Ihre Inhalte mit Ihrem "
+#~ "Google+ Profil verknüpfen"
+
+#~ msgid "Follow this link to open your Google+ profile: %s"
+#~ msgstr "Folgen Sie diesen Link um Ihre Google+ Profilseite zu öffnen: %s"
+
+#~ msgid ""
+#~ "Copy your Profile-URL from the address bar to clipboard (see picture "
+#~ "below):"
+#~ msgstr ""
+#~ "Kopieren Sie die Profil-URL aus der Adresszeile des Browser in die "
+#~ "Zwischenablage (siehe Bild unten):"
+
+#~ msgid ""
+#~ "Go to your Wordpress Admin Panel and click Users » Your Profile. Paste "
+#~ "the above mentioned URL to the field where it says „Google Plus Author "
+#~ "Link“."
+#~ msgstr ""
+#~ "Wechseln Sie zur Wordpress Administrationsoberfläche und klicken Sie auf "
+#~ "Benutzer » Dein Profil. Fügen Sie die oben genannte URL in das Feld "
+#~ "\"Google Plus Author Link\" ein."
+
+#~ msgid "Click Update Profile."
+#~ msgstr "Klicken Sie auf \"Profil aktualisieren\"."
+
+#~ msgid ""
+#~ "Repeat the above steps with all the other Wordpress authors on your blog."
+#~ msgstr ""
+#~ "Wiederholen Sie die oben genannten Schritte mit allen anderen Wordpress "
+#~ "Autoren auf Ihrem Blog."
+
+#~ msgid ""
+#~ "B) Add a reciprocal link back from your profile to the site you just "
+#~ "updated"
+#~ msgstr ""
+#~ "B) Fügen Sie einen Link hinzu, der von Ihrem Profil zu der Website "
+#~ "zurückführt, die Sie soeben aktualisiert haben."
+
+#~ msgid "Follow this link to edit the Contributor To section: %s"
+#~ msgstr ""
+#~ "Folgen Sie diesem Link um den Abschnitt \"Macht mit bei\" zu bearbeiten: "
+#~ "%s"
+
+#~ msgid ""
+#~ "In the dialog that appears, click Add custom link, and then enter your "
+#~ "website URL."
+#~ msgstr ""
+#~ "Klicken Sie in dem daraufhin angezeigten Dialogfeld auf "
+#~ "\"Benutzerdefinierten Link hinzufügen\" und geben Sie dann die URL der "
+#~ "Website ein."
+
+#~ msgid ""
+#~ "If you want, click the drop-down list to specify who can see the link."
+#~ msgstr ""
+#~ "Wenn Sie möchten, können Sie in der Dropdown-Liste festlegen, wer den "
+#~ "Link sehen kann."
+
+#~ msgid "Click Save."
+#~ msgstr "Klicken Sie auf Speichern."
+
+#~ msgid "C) Test"
+#~ msgstr "C) Test"
+
+#~ msgid ""
+#~ "To see what author data Google can extract from your page, use the Rich "
+#~ "Snippet Testing Tool. For this use the buttons to your right."
+#~ msgstr ""
+#~ "Um sehen zu können welche Autordaten Google aus Ihrer Seite extrahieren "
+#~ "kann, können Sie den Rich Snippets-Tester benutzen. Sie können die "
+#~ "Schaltflächen zu Ihrer rechten dazu benutzen."
+
+#~ msgid ""
+#~ "If Google cannot extract your profile picture, please read the FAQ which "
+#~ "you can find in the documentation delivered with this plugin."
+#~ msgstr ""
+#~ "Wenn Google Ihr Profilbild nicht extrahieren kann lesen Sie bitte die "
+#~ "FAQ, die Sie in der Dokumentation finden, die mit diesem Plugin "
+#~ "ausgeliefert wurde."
+
+#~ msgid "Open the documentation now."
+#~ msgstr "Die Dokumentation jetzt öffnen."
+
+#~ msgid "Thanks that you have purchased this plugin!"
+#~ msgstr "Vielen Dank dass Sie dieses Plugin erworben haben!"
+
+#~ msgid "Did you know that you can earn money by recommending it?"
+#~ msgstr ""
+#~ "Wussten Sie, dass Sie Geld damit verdienen können, wenn Sie es "
+#~ "weiterempfehlen?"
+
+#~ msgid "Click here for more information."
+#~ msgstr "Klicken Sie hier um mehr darüber zu erfahren."
+
+#~ msgid "Test whether the link was integrated correctly."
+#~ msgstr "Testen Sie, ob der Link korrekt integriert wurde."
+
+#~ msgid "Testing..."
+#~ msgstr "Teste..."
+
+#~ msgid "Test correct integration again"
+#~ msgstr "Integration erneut testen"
+
+#~ msgid ""
+#~ "Test your last published page or post with Google`s Rich Snippet Testing "
+#~ "Tool"
+#~ msgstr ""
+#~ "Testen Sie Ihre aktuellste Seite oder den aktuellsten Artikel mit dem "
+#~ "Rich Snippet Testung Tool"
+
+#~ msgid "Test latest page"
+#~ msgstr "Aktuellste Seite testen"
+
+#~ msgid "Test latest post"
+#~ msgstr "Aktuellsten Artikel testen"
+
+#~ msgid "Choose the post types to use with the plugin"
+#~ msgstr ""
+#~ "Wählen Sie die Artikeltypen die mit diesem Plugin verwendet werden sollen."
+
+#~ msgid "Display in Feed?"
+#~ msgstr "Im Feed anzeigen?"
+
+#~ msgid "Replace author link with the Google Profile URL?"
+#~ msgstr "Ersetze Autorenlink mit GooglePlus Profillink?"
+
+#~ msgid "Show or hide the link?"
+#~ msgstr "Link anzeigen oder verstecken?"
+
+#~ msgid "Where to show the link in the content"
+#~ msgstr "Wo soll der Link im Inhaltsbereich angezeigt werden?"
+
+#~ msgid "Open the link in a new window?"
+#~ msgstr "Öffne den Link in einem neuen Fenster?"
+
+#~ msgid "Link text"
+#~ msgstr "Linktext"
+
+#~ msgid ""
+#~ "Not every theme shows the Author-Link right beside a page or an article. "
+#~ "In this case activate the link to be included in the content."
+#~ msgstr ""
+#~ "Nicht jedes Theme zeigt einen Autorenlink neben einer Seite oder einem "
+#~ "Artikel an. In diesem Fall können Sie den Link direkt im Inhaltsbereich "
+#~ "einfügen lassen."
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgid "Show it in the widget-area instead."
+#~ msgstr "Zeige ihn stattdessen im Widget-Bereich"
+
+#~ msgid "Show it in the content-area instead (see below)"
+#~ msgstr "Zeige ihn stattdessen nach dem Inhaltsbereich (siehe unten)"
+
+#~ msgid "Hide"
+#~ msgstr "Verstecken"
+
+#~ msgid "Show"
+#~ msgstr "Anzeigen"
+
+#~ msgid "Before the content"
+#~ msgstr "Vor dem Inhaltsbereich"
+
+#~ msgid "After the content"
+#~ msgstr "Nach dem Inhaltsbereich"
+
+#~ msgid "Before and after the content"
+#~ msgstr "Vor und nach dem Inhaltsbereich"
+
+#~ msgid "Please select at least one post type!"
+#~ msgstr "Bitte wählen Sie zumindest einen Artikeltyp aus."
+
+#~ msgid ""
+#~ "At the moment, there is no article of the type \"%1$s\". Please create at "
+#~ "least one article of the type \"%2$s\" to continue testing."
+#~ msgstr ""
+#~ "Im Moment existiert keine Seite des Typs \"%1$s\". Bitte erstellen Sie "
+#~ "mindestens eine Seite des Typs \"%2$s\" um mit dem Testen vorzufahren."
+
+#~ msgid ""
+#~ "The page with the page type \"%1$s\" could not be verified. The site "
+#~ "delivered a page with the status code %2$s."
+#~ msgstr ""
+#~ "Die Seite mit dem Seitentyp \"%1$s\" konnte nicht abgerufen werden. Sie "
+#~ "lieferte den Status-Code %2$s."
+
+#~ msgid ""
+#~ "The author of the following page has not yet set his link to the Google+ "
+#~ "profile: %s"
+#~ msgstr ""
+#~ "Der Autor der folgenden Seite hat seinen Google+ Link noch nicht "
+#~ "eingefügt: %s"
+
+#~ msgid ""
+#~ "Your Google+ link could not be found on this page: %1$s. Page type: %2$s"
+#~ msgstr ""
+#~ "Der Google+ Link auf folgender Seite konnte nicht gefunden werden: %1$s. "
+#~ "Der Artikeltyp ist: %2$s"
+
+#~ msgid "The authors Google+ link was found in post type \"%s\""
+#~ msgstr "Der Google+ Link des Autors wurde im Artikeltyp %s gefunden"
+
+#~ msgid ""
+#~ "The current article (post type: %1$s) has no content which can be "
+#~ "searched: %2$s"
+#~ msgstr ""
+#~ "Die aktuelle Seite vom Typ %1$s hat keinen Inhalt der durchsucht werden "
+#~ "kann: %2$s"
+
+#~ msgid "Google+ Author"
+#~ msgstr "Google+ Author"
+
+#~ msgid "Add the Google+ Authorship Link to your sidebar."
+#~ msgstr "Fügen Sie den Google+ Authorship Link zur Sidebar hinzu."
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "An error occurred"
+#~ msgstr "Ein Fehler trat auf"
+
+#~ msgid "Create a Google+ Profile"
+#~ msgstr "Erstellen Sie ein Google+ Profil"
+
+#~ msgid "Login to Google+ if you do have an account yet"
+#~ msgstr "Loggen Sie sich bei Google+ wenn Sie bereits einen Account besitzen"
+
+#~ msgid "Click here to open your profile"
+#~ msgstr "Klicken Sie hier um Ihr Profil zu öffnen"
+
+#~ msgid ""
+#~ "Find your Google+ Profile link by visiting your own page and copy the "
+#~ "link (shown and marked in the image below) to clipboard"
+#~ msgstr ""
+#~ "Finden Sie Ihren eigenen Google+ Profillink indem Sie Ihre eigenen "
+#~ "Profilseite besuchen. Kopieren Sie dann den entsprechenden Link in die "
+#~ "Zwischenablage (siehe Bild unten)"
+
+#~ msgid "Go to your profile page"
+#~ msgstr "Wechseln Sie zu Ihrer Profilseite"
+
+#~ msgid "and paste your profile link where it says \"Google Plus Link\""
+#~ msgstr ""
+#~ "und fügen Sie den gerade kopierten Google+ Profillink in das Feld "
+#~ "\"Google Plus Author Link\""
+
+#~ msgid ""
+#~ "Do not add the tag \"?ref=author\" because that will be added "
+#~ "automatically."
+#~ msgstr ""
+#~ "Fügen Sie nicht \"?ref=author\" am Ende an. Es wird automatisch "
+#~ "angehängt. "
+
+#~ msgid ""
+#~ "Go to Settings > Google Plus Author and make changes if needed (this page "
+#~ "- see below)"
+#~ msgstr ""
+#~ "Gehen Sie zur Seite Einstellungen > Google Plus Author (Erweiterte "
+#~ "Version) und legen Sie alle nötigen Einstellungen fest (siehe unten)"
+
+#~ msgid ""
+#~ "http://support.google.com/webmasters/bin/answer.py?hl=en&answer=1408986"
+#~ msgstr ""
+#~ "http://support.google.com/webmasters/bin/answer.py?hl=de&answer=1408986"
+
+#~ msgid ""
+#~ "If you can see your profile picture everything is okay. If not, you have "
+#~ "made something wrong."
+#~ msgstr ""
+#~ "Wenn Sie Ihr Profilbild sehen können ist alles OK. Wenn nicht, haben Sie "
+#~ "etwas falsch gemacht."
+
+#~ msgid ""
+#~ "Note that there is no guarantee that a Rich Snippet will be shown for "
+#~ "your page on actual search results!"
+#~ msgstr ""
+#~ "Bitte beachten Sie, dass Google keine Garantie dafür gibt, dass Rich "
+#~ "Snippets in den Suchergebnissen angezeigt werden."
+
+#~ msgid "Google+ Authorship"
+#~ msgstr "Google+ Authorship"
+
+#~ msgid "Cannot read the page: %s"
+#~ msgstr "Folgende Seite konnte nicht gelesen werden: %s"
+
+#~ msgid "Please use the Rich Snippet Testing Tool instead (see below)."
+#~ msgstr ""
+#~ "Bitte nutzen Sie stattdessen das Rich Snippet Testing Tool (siehe unten)."
+
+#~ msgid "Go to the plugins homepage to get more information."
+#~ msgstr ""
+#~ "Wechseln Sie zur Plugin-Homepage um weitere Informationen zu erhalten."
+
+#~ msgid "What to do"
+#~ msgstr "Was zu tun ist"
+
+#~ msgid "Share"
+#~ msgstr "Teilen"
+
+#~ msgid "Login to Google+"
+#~ msgstr "Loggen Sie sich bei Google+ ein"
+
+#~ msgid "Go to the plugins page"
+#~ msgstr "Wechseln Sie zur Plugin-Website"
+
+#~ msgid "Only applied when link is displayed after the content"
+#~ msgstr ""
+#~ "Wird nur angewandt, wenn der Link nach dem Inhaltsbereich angezeigt wird"
+
+#~ msgid "Check this if you want to display the Google+ Link inside the feeds."
+#~ msgstr ""
+#~ "Wird dies aktiviert, so werden die Google+ Links auch in den Feeds "
+#~ "angezeigt."
+
+#~ msgid "In Feed?"
+#~ msgstr "Im Feed anzei"
+
+#~ msgid "If you like this plugin, please click: "
+#~ msgstr "Wenn du das Plugin magst, bitte klicke hier:"
+
+#~ msgid ""
+#~ "If you have submitted an RSS-Feed to iTunes and want to change the url to "
+#~ "a new feed address you may know that iTunes does not provide a form or "
+#~ "something like this. Instead you need a little code-snippet in your RSS "
+#~ "2.0-Feed to change the URL. This plugin will help you to do this."
+#~ msgstr ""
+#~ "Wenn Du einen RSS-Feed in iTunes importiert hast und diese URL nun ändern "
+#~ "willst, wirst du feststellen, dass das gar nicht so einfach ist. Man "
+#~ "benötigt einen kleinen Code direkt im RSS-Feed um die Weiterleitung "
+#~ "einzuleiten. Dieses Plugin hilft dir dabei."
+
+#~ msgid "Check my feed with the W3C Feed Validator"
+#~ msgstr "Meinen Feed auf Gültigkeit prüfen (W3C Feed Validator)"
+
+#~ msgid "RSS iTunes Redirection Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "New URL to redirect"
+#~ msgstr "Neue Feed-URL"
+
+#~ msgid "Add the namespace?"
+#~ msgstr "Namespace hinzufügen?"
+
+#~ msgid "Will add the namespace"
+#~ msgstr "Folgender Namespace wird hinzugefügt"
+
+#~ msgid ""
+#~ "If you are using a podcast plugin please check if this plugin adds the "
+#~ "namespace. If so, you do not need it again. If you are not using any of "
+#~ "these plugins you normally need the namespace. Just check your feed "
+#~ "whether you get an error or not:"
+#~ msgstr ""
+#~ "Wenn du ein Podcast-Plugin benutzt, welches den Namespace <strong>xmlns:"
+#~ "itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\"</strong> zum Feed "
+#~ "hinzufügt, brauchst du den Namespace nicht noch einmal hinzufügen. Wenn "
+#~ "du kein Podcast-Plugin benutzt benötigst du den Namespace normalerweise "
+#~ "schon. Öffne einfach deinen Feed und sehe nach, ob ein Fehler entsteht:"
+
+#~ msgid ""
+#~ "If you are using feedburner: Click on Troubleshootize -> Resync to update "
+#~ "your feed on this platform as well."
+#~ msgstr ""
+#~ "Wenn du Feedburner benutzt: Clicke auf Troubleshootize -> Resync um den "
+#~ "Feed auch dort zu aktualisieren."

@@ -1,0 +1,46 @@
+<div itemscope="itemscope" itemtype="http://schema.org/Recipe">
+	Product name: <span itemprop="name">[name]</span><br />
+	By: <span itemprop="author">[author]</span><br />
+	Description: <span itemprop="description">[summary]</span><br />
+	Type: <span itemprop="recipeCategory">[recipetype]</span><br />
+	Image: <br /><img class="photo" itemprop="image" src="[photo]" alt="[name]" /><br />
+	<meta itemprop="thumbnailUrl" content="[thumbnail]" />
+	Published:
+	<time itemprop="datePublished" datetime="<?php echo date( 'c', strtotime( $published ) ); ?>">[published]</time>
+	<br />
+
+	Time to prepare the recipe:
+	<meta itemprop="prepTime" content="PT[preptime]M" />
+	[preptime] minutes <br />
+	Time to cook:
+	<meta itemprop="prepTime" content="PT[cooktime]M" />
+	[cooktime] minutes<br />
+	Duration:
+	<meta itemprop="prepTime" content="PT[totaltime]M" />
+	[totaltime] minutes<br />
+
+	Nutrition: <span itemprop="nutrition" itemscope="itemscope" itemtype="http://schema.org/NutritionInformation">
+			<span itemprop="calories">[nutrition]</span>
+		</span><br />
+
+	Servings: <span itemprop="recipeYield">[yield]</span><br />
+
+	Ingredients:
+	<?php
+	foreach ( explode( ',', $ingredients ) as $ingredient ) {
+
+		echo '<span itemprop="ingredients">' . $ingredient . '</span>, ';
+	}
+	?>
+	<br />
+
+	Instructions:
+	<div itemprop="recipeInstructions"><?php echo do_shortcode( $content ); ?></div>
+	<br />
+
+	<span itemprop="aggregateRating" itemscope="itemscope" itemtype="http://schema.org/AggregateRating">
+		<span itemprop="ratingValue">[rating]</span> stars <br />
+		<span itemprop="ratingCount">[count]</span> reviews
+	</span>
+
+</div>

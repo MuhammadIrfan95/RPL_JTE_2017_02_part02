@@ -1,0 +1,14 @@
+<span itemscope="itemscope" itemtype="http://schema.org/Product">
+	Product name: <span itemprop="name">[name]</span><br />
+	Product image: <img itemprop="image" src="[image]" alt="[name]" /><br />
+	Brand: <span itemprop="brand" itemscope="itemscope" itemtype="http://schema.org/Brand">
+		<span itemprop="name">[brand]</span>
+	</span><br />
+	Identifier: <span itemprop="productID">[identifier]</span><br />
+	Description: <span itemprop="description">[description]</span><br />
+	<span itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer">
+		Price: <span itemprop="price">[price]</span>
+		- <link itemprop="availability" href="http://schema.org/InStock" />In stock
+	</span><br />
+	<?php echo do_shortcode( $content ); ?>
+</span>

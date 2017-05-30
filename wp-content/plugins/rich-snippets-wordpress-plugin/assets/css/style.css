@@ -1,0 +1,79 @@
+.rswp-attribute {
+	display: block;
+	width: 300px;
+	padding: 5px;
+	margin: 10px 0;
+}
+
+.rswp-icon {
+	width: 16px;
+	height: 16px;
+	float: left;
+	background-image: url("../images/add-remove.png");
+	margin-right: 5px;
+}
+
+.rswp-icon-add {
+	background-position: -1px 0;
+}
+
+.rswp-icon-remove {
+	background-position: -45px 0;
+	margin-top: 5px;
+}
+
+.CodeMirror-scroll {
+	height: 400px;
+	border: 1px solid #000000;
+	background-color: #ffffff;
+}
+
+.rswp-usage-headline {
+	font-size: 20px;
+}
+
+#rswp_usage textarea {
+	font-family: Courier;
+	font-size: 18px;
+	width: 100%;
+	border: 1px solid #000000;
+	background-color: #ffffff;
+	cursor: pointer;
+	padding: 10px;
+}
+
+.rswp-headline {
+	font-size: 18px;
+	margin-top: 50px;
+}
+
+.rswp_column_shortcode {
+	width: 100%;
+}
+
+/* Styles for rotateTableCellContent plugin*/
+.rswp-roles-table div.rotated {
+	writing-mode: tb-rl;
+	white-space: nowrap;
+}
+
+.rswp-roles-table thead th {
+	vertical-align: top;
+}
+
+.rswp-roles-table .vertical {
+	white-space: nowrap;
+}
+
+.rswp-roles-table input {
+	cursor: pointer;
+}
+
+.wpbuddy-cr-form label {
+	width: 85px;
+	display: inline-block;
+}
+
+.rswp-placeholders span {
+	cursor: pointer;
+}

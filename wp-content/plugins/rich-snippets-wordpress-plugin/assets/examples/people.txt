@@ -1,0 +1,15 @@
+<div itemscope="itemscope" itemtype="http://schema.org/Person">
+	<p>My name is <span itemprop="name">[name]</span></p>
+
+	<p>Here you can find my website:
+		<a href="[url]" itemprop="url">[url]</a>.</p>
+
+	<p>I live in <?php echo do_shortcode( $content ); ?></p>
+
+	<p>And this is a picture of me:<br />
+		<img src="[photo]" alt="[name]" itemprop="image" /></p>
+
+	<p>I work as a <span itemprop="jobTitle">[title]</span>
+		at <span itemprop="affiliation" itemscope="itemscope" itemtype="http://schema.org/Organization">
+	<span itemprop="name">[affiliation]</span></span>
+</div>

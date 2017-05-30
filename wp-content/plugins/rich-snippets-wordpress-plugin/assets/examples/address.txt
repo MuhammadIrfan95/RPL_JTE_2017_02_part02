@@ -1,0 +1,7 @@
+<span itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+	<span itemprop="streetAddress">[streetaddress]</span>,
+	<span itemprop="addressLocality">[locality]</span>,
+	<span itemprop="addressRegion">[region]</span>
+	<span itemprop="postalCode">[postalcode]</span>
+	<span itemprop="addressCountry">[countryname]</span>
+</span>

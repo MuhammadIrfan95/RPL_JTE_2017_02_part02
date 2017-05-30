@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rich Snippets WordPress Plugin\n"
+"POT-Creation-Date: 2013-11-05 15:06+0100\n"
+"PO-Revision-Date: 2013-11-05 15:06+0100\n"
+"Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../classes/wpb_plugin.php:724
+#, php-format
+msgid ""
+"You should consider entering you purchase code for the %s plugin because you "
+"get every update immediately delivered to your WordPress installation."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:399
+#: ../../classes/wpb_rich_snippets.php:1446
+#: ../../classes/wpb_rich_snippets.php:1447
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../../classes/wpb_rich_snippets.php:400
+#: ../../classes/wpb_rich_snippets.php:741
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../../classes/wpb_rich_snippets.php:401
+msgid "Edit Shortcode"
+msgstr "Bewerk Shortcode"
+
+#: ../../classes/wpb_rich_snippets.php:402
+msgid "New Shortcode"
+msgstr "Nieuwe Shortcode"
+
+#: ../../classes/wpb_rich_snippets.php:403
+msgid "View Shortcode"
+msgstr "Bekijk Shortcode"
+
+#: ../../classes/wpb_rich_snippets.php:404
+msgid "Search Shortcodes"
+msgstr "Zoek Shortcodes"
+
+#: ../../classes/wpb_rich_snippets.php:405
+msgid "No Shortcodes found"
+msgstr "Geen Shortcodes gevonden"
+
+#: ../../classes/wpb_rich_snippets.php:406
+msgid "No Shortcodes found in trash"
+msgstr "Geen Shortcodes gevonden in de Prullenbak"
+
+#: ../../classes/wpb_rich_snippets.php:412
+msgid "Allows you to add shortcodes."
+msgstr "Hiermee kunt u shortcodes toevoegen."
+
+#: ../../classes/wpb_rich_snippets.php:467
+msgid "Options"
+msgstr "Opties"
+
+#: ../../classes/wpb_rich_snippets.php:477
+msgid "Info & Help"
+msgstr "Info & Help"
+
+#: ../../classes/wpb_rich_snippets.php:497
+msgid "Helpful links"
+msgstr "Handige links"
+
+#: ../../classes/wpb_rich_snippets.php:499
+msgid "Installation manual"
+msgstr "Installatiehandleiding"
+
+#: ../../classes/wpb_rich_snippets.php:500
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen"
+
+#: ../../classes/wpb_rich_snippets.php:501
+msgid "Report a bug"
+msgstr "Rapporteer een bug"
+
+#: ../../classes/wpb_rich_snippets.php:502
+msgid "Request a function"
+msgstr "Verzoek een functie"
+
+#: ../../classes/wpb_rich_snippets.php:503
+msgid "Submit a translation"
+msgstr "Indienen van een vertaling"
+
+#: ../../classes/wpb_rich_snippets.php:504
+msgid "More cool stuff by WPBuddy"
+msgstr "Meer handige dingen van WPBuddy"
+
+#: ../../classes/wpb_rich_snippets.php:507
+msgid "Like this plugin?"
+msgstr "Vind je deze plugin leuk?"
+
+#: ../../classes/wpb_rich_snippets.php:533
+msgid "Keep up do date with WPBuddy!"
+msgstr "Blijf up-to-date met WPBuddy!"
+
+#: ../../classes/wpb_rich_snippets.php:543
+msgid "Your first name"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:544
+msgid "E-Mail"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:545
+msgid "Subscribe for free"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:584
+msgid "Usage"
+msgstr "Gebruik"
+
+#: ../../classes/wpb_rich_snippets.php:590
+msgid "Attributes"
+msgstr "Kenmerken"
+
+#: ../../classes/wpb_rich_snippets.php:592
+#: ../../classes/wpb_rich_snippets.php:827
+msgid "Choose the attribute name"
+msgstr "Kies de kenmerknaam"
+
+#: ../../classes/wpb_rich_snippets.php:609
+msgid "Add new attribute"
+msgstr "Nieuw kenmerk toevoegen"
+
+#: ../../classes/wpb_rich_snippets.php:610
+msgid "HTML / PHP Code"
+msgstr "HTML / PHP Code"
+
+#: ../../classes/wpb_rich_snippets.php:612
+msgid ""
+"If your current PHP installation supports the eval() function you can use "
+"PHP in the textarea below. For this please always start with the &lt;?php "
+"tag. You can use the attributes as the name of the variables."
+msgstr ""
+"Als uw huidige PHP installatie de functie eval() ondersteunt kunt u PHP in "
+"de textarea hieronder gebruiken. Hiervoor kunt u altijd beginnen met de &lt;?"
+"php tag. U kunt de kenmerken als de naam van de variabelen gebruiken."
+
+#: ../../classes/wpb_rich_snippets.php:614
+msgid "You can use the following placeholders:"
+msgstr "U kunt de volgende tijdelijke aanduidingen gebruiken:"
+
+#: ../../classes/wpb_rich_snippets.php:642
+msgid "CSS Stylesheets"
+msgstr "CSS Stylesheets"
+
+#: ../../classes/wpb_rich_snippets.php:703
+#: ../../classes/wpb_rich_snippets.php:709
+msgid "Shortcode updated."
+msgstr "Shortcode bijgewerkt."
+
+#: ../../classes/wpb_rich_snippets.php:705
+msgid "Custom field updated."
+msgstr "Aangepast veld bijgewerkt."
+
+#: ../../classes/wpb_rich_snippets.php:707
+msgid "Custom field deleted."
+msgstr "Aangepast veld verwijderd."
+
+#: ../../classes/wpb_rich_snippets.php:711
+#, php-format
+msgid "Shortcode restored to revision from %s"
+msgstr "Shortcode hersteld van %s"
+
+#: ../../classes/wpb_rich_snippets.php:713
+msgid "Shortcode can now be used in posts."
+msgstr "Shortcode kan nu worden gebruikt in berichten en pagina's."
+
+#: ../../classes/wpb_rich_snippets.php:715
+msgid "Shortcode saved."
+msgstr "Shortcode opgeslagen."
+
+#: ../../classes/wpb_rich_snippets.php:717
+msgid "Shortcode submitted."
+msgstr "Shortcode ingediend."
+
+#: ../../classes/wpb_rich_snippets.php:719
+msgid "Shortcode scheduled."
+msgstr "Shortcode gepland."
+
+#: ../../classes/wpb_rich_snippets.php:721
+msgid "Shortcode draft updated."
+msgstr "Shortcode concept bijgewerkt."
+
+#: ../../classes/wpb_rich_snippets.php:810
+msgid "Not named shortcode"
+msgstr "Shortcode zonder naam"
+
+#: ../../classes/wpb_rich_snippets.php:1009
+msgid "No shortcode so far"
+msgstr "Tot nu toe geen shortcodes"
+
+#: ../../classes/wpb_rich_snippets.php:1357
+msgid "Disable capability handling"
+msgstr "Vermogen verwerking uitschakelen"
+
+#: ../../classes/wpb_rich_snippets.php:1366
+msgid "Capability type"
+msgstr "Type vermogen"
+
+#: ../../classes/wpb_rich_snippets.php:1374
+msgid "Meta Cap Map"
+msgstr "Meta Cap kaart"
+
+#: ../../classes/wpb_rich_snippets.php:1383
+msgid "Match the roles with the capabilities"
+msgstr "Overeenkomende functies met de mogelijkheden"
+
+#: ../../classes/wpb_rich_snippets.php:1399
+msgid "Purchase Code"
+msgstr "Aankoop code"
+
+#: ../../classes/wpb_rich_snippets.php:1438
+#: ../../classes/wpb_rich_snippets.php:1439
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../../classes/wpb_rich_snippets.php:1491
+msgid "General"
+msgstr "Algemeen"
+
+#: ../../classes/wpb_rich_snippets.php:1501
+msgid "Shortcode settings"
+msgstr "Shortcode instellingen"
+
+#: ../../classes/wpb_rich_snippets.php:1551
+msgid ""
+"Activate this checkbox if you have problems with the capability-"
+"functionality (ex. if the menu does not appear)."
+msgstr ""
+"Activeer dit aankruisvak als u problemen met de vermogen-functionaliteit "
+"hebt (bijv. als het menu niet wordt weergegeven)."
+
+#: ../../classes/wpb_rich_snippets.php:1570
+msgid "Keep this at \"rswp-shortcode\" if possible"
+msgstr "Houd dit op \"rswp-shortcode\" indien mogelijk"
+
+#: ../../classes/wpb_rich_snippets.php:1588
+msgid "Activate to set the \"map_meta_cap\" value to true."
+msgstr ""
+"Als u wilt \"map_meta_cap\" wilt activeren zet dan de waarde op waarde op "
+"true."
+
+#: ../../classes/wpb_rich_snippets.php:1619
+msgid ""
+"Deactivate the above checkbox and hit the save button to see this options."
+msgstr ""
+"Deactiveren van de bovenstaande checkbox en druk op de Opslaan knop om te "
+"deze opties te zien."
+
+#: ../../classes/wpb_rich_snippets.php:1623
+msgid "Role/Capability"
+msgstr "Rol/Rechten"
+
+#: ../../classes/wpb_rich_snippets.php:1660
+msgid "Enter your purchase code in order to get automatic updates!"
+msgstr "Voer uw aankoop code om automatische updates te ontvangen!"
+
+#: ../../classes/wpb_rich_snippets.php:1660
+msgid "Click here if you do not know where to find your purchase code."
+msgstr "Klik hier als u niet waar u de aankoop code kunt vinden."
+
+#: ../../classes/wpb_rich_snippets.php:1720
+msgid ""
+"You have been redirected because you do not have permission to access that "
+"page."
+msgstr "U bent omgeleid omdat u niet gemachtigd bent om deze pagina te openen."
+
+#: ../../classes/wpb_rich_snippets.php:1872
+#, fuzzy
+msgid "Add Shortcodes"
+msgstr "Shortcodes"
+
+#: ../../classes/wpb_rich_snippets.php:1895
+msgid "There are no attributes for this shortcode"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1921
+msgid "Insert"
+msgstr ""

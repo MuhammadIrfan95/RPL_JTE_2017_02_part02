@@ -1,0 +1,33 @@
+<div class="rswp-event" itemscope="itemscope" itemtype="http://schema.org/Event">
+	<a href="'<?php echo $url; ?>" itemprop="url"><h5 itemprop="name"><?php echo $name; ?></h5></a>
+
+	<p itemprop="description"><?php echo do_shortcode( $content ); ?></p>
+
+	<h6>Location</h6>
+	<span itemprop="location" itemscope="itemscope" itemtype="http://schema.org/Place">
+	​<p>
+			<span itemprop="name">[organization]</span><br />
+			<span itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">[street]</span><br />
+				<span itemprop="postalCode">[zip]</span>
+				<span itemprop="addressLocality">[locality]</span><br />
+				<span itemprop="addressCountry">[country]</span><br />
+				</span>
+		</p>
+		<span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinateso">
+			<meta itemprop="latitude" content="[latitude]" />
+			<meta itemprop="longitude" content="[latitude]" />
+			</span>
+	</span>
+
+	<h6>Date and Time</h6>
+
+	<p>
+		Start Date:
+		<time itemprop="startDate" datetime="<?php echo date( 'c', strtotime( $start_date ) ); ?>">[start_date]</time>
+		<?php if ( ! empty( $end_date ) ) {
+		    printf('<br />End Date: <time itemprop="endDate" datetime="%s">[end_date]</time>', date( 'c', strtotime( $end_date ) ));
+		} ?>
+	</p>
+	<meta itemprop="image" content="[image]" />
+</div>

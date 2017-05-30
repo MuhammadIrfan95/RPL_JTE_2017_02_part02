@@ -1,0 +1,4 @@
+SKU,Parent SKU,Product Name, Regular Price , Partner Price , Partner Special Case Price , Non Partner Price ,Custom Field / Product Attribute,Description ,Category,Tags - Manufacturer
+Audix M3-X,,Audix M3,,,,,,Audix M3 Tri-Element Hanging Ceiling Mic with Junction Box,Microphones,Audix
+Audix M3-W,Audix M3-X,Audix M3,657.25,755.84,699.97,1195,White,,,
+Audix M3-G,Audix M3-X,Audix M3,657.25,755.84,699.97,1195,Grey,,,

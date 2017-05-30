@@ -1,0 +1,7 @@
+Product Title,SKU,Parent SKU,Price
+Soflyy T-Shirt,999-X,,
+Soflyy T-Shirt (blue),999-B,999-X,15
+Soflyy T-Shirt (red),999-C,999-X,15
+Soflyy Mug,777-X,,
+Soflyy Mug,777-O,777-X,9
+Soflyy Mug,777-Y,777-X,9

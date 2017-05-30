@@ -1,0 +1,17 @@
+<div itemprop="review" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<span itemprop="name"> [itemreviewed]</span><br />
+
+	<p>Reviewed by
+		<span itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">[reviewer]</span></span> on
+		<time itemprop="datePublished" datetime="<?php echo date( 'c', strtotime( $dtreviewed ) ); ?>">[dtreviewed]</time>
+	</p>
+
+	<p><span itemprop="description">[content]</span></p>
+
+	<p itemprop="aggregateRating" itemscope="itemscope" itemtype="http://schema.org/AggregateRating">Rating:
+		<span itemprop="ratingValue">[rating]</span> out of [best]
+		<meta itemprop="bestRating" content="[best]" />
+		<meta itemprop="worstRating" content="[worst]" />
+		<meta itemprop="ratingCount" content="1" />
+	</p>
+</div>

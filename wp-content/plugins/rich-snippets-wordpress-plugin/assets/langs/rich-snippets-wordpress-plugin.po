@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rich Snippets WordPress Plugin\n"
+"POT-Creation-Date: 2015-10-26 08:03+0100\n"
+"PO-Revision-Date: 2015-10-26 08:03+0100\n"
+"Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../classes/wpb_plugin.php:731
+#, php-format
+msgid ""
+"You should consider entering you purchase code for the %s plugin because you "
+"get every update immediately delivered to your WordPress installation."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:404
+#: ../../classes/wpb_rich_snippets.php:1478
+#: ../../classes/wpb_rich_snippets.php:1479
+msgid "Shortcodes"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:405
+#: ../../classes/wpb_rich_snippets.php:739
+msgid "Shortcode"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:406
+msgid "Edit Shortcode"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:407
+msgid "New Shortcode"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:408
+msgid "View Shortcode"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:409
+msgid "Search Shortcodes"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:410
+msgid "No Shortcodes found"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:411
+msgid "No Shortcodes found in trash"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:417
+msgid "Allows you to add shortcodes."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:473
+msgid "Options"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:483
+msgid "Info & Help"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:503
+msgid "Helpful links"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:505
+msgid "Installation manual"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:506
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:507
+msgid "Report a bug"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:508
+msgid "Request a function"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:509
+msgid "Submit a translation"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:510
+msgid "More cool stuff by WPBuddy"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:513
+msgid "Like this plugin?"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:540
+msgid "Keep up do date with WPBuddy!"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:550
+msgid "Your first name"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:551
+msgid "E-Mail"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:552
+msgid "Subscribe for free"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:591
+msgid "Usage"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:597
+msgid "Attributes"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:599
+#: ../../classes/wpb_rich_snippets.php:834
+msgid "Choose the attribute name"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:616
+msgid "Add new attribute"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:617
+msgid "HTML / PHP Code"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:619
+msgid ""
+"If your current PHP installation supports the eval() function you can use "
+"PHP in the textarea below. For this please always start with the &lt;?php "
+"tag. You can use the attributes as the name of the variables."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:621
+msgid "You can use the following placeholders:"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:649
+msgid "CSS Stylesheets"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:710
+#: ../../classes/wpb_rich_snippets.php:713
+msgid "Shortcode updated."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:711
+msgid "Custom field updated."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:712
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:714
+#, php-format
+msgid "Shortcode restored to revision from %s"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:715
+msgid "Shortcode can now be used in posts."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:716
+msgid "Shortcode saved."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:717
+msgid "Shortcode submitted."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:718
+msgid "Shortcode scheduled."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:719
+msgid "Shortcode draft updated."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:817
+msgid "Not named shortcode"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1018
+msgid "No shortcode so far"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1381
+msgid "Disable capability handling"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1390
+msgid "Capability type"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1398
+msgid "Meta Cap Map"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1407
+msgid "Match the roles with the capabilities"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1423
+msgid "Disable shortcodes on feed"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1431
+msgid "Purchase Code"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1470
+#: ../../classes/wpb_rich_snippets.php:1471
+msgid "Settings"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1523
+msgid "General"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1536
+msgid "Shortcode settings"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1588
+msgid ""
+"Activate this checkbox if you have problems with the capability-"
+"functionality (ex. if the menu does not appear)."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1609
+msgid "Keep this at \"rswp-shortcode\" if possible"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1629
+msgid "Activate to set the \"map_meta_cap\" value to true."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1660
+msgid ""
+"Deactivate the above checkbox and hit the save button to see this options."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1664
+msgid "Role/Capability"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1707
+msgid ""
+"Activate this checkbox if you want to deactivate rich snippets shortcodes "
+"when the feed is displayed."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1725
+msgid "Enter your purchase code in order to get automatic updates!"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1725
+msgid "Click here if you do not know where to find your purchase code."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1787
+msgid ""
+"You have been redirected because you do not have permission to access that "
+"page."
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:1976
+msgid "Add Shortcodes"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:2002
+msgid "There are no attributes for this shortcode"
+msgstr ""
+
+#: ../../classes/wpb_rich_snippets.php:2029
+msgid "Insert"
+msgstr ""

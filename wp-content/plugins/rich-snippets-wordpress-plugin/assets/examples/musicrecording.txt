@@ -1,0 +1,11 @@
+<div itemscope="itemscope" itemtype="http://schema.org/MusicRecording">
+	<span itemprop="name">[name]</span><br />
+	Length:
+	<meta itemprop="duration" content="PT[minutes]M[seconds]S" />
+	[minutes]:[seconds] - [userplays] plays<br />
+	<meta itemprop="interactionCount" content="UserPlays:[userplays]" />
+	<a href="[url]" itemprop="url">Read more</a> -
+	<a href="[playurl]" itemprop="audio">Play</a> -
+	<a href="[buyurl]" itemprop="offers">Buy</a><br />
+	From album: <a href="[albumurl]" itemprop="inAlbum">[albumname]</a><br />
+</div>

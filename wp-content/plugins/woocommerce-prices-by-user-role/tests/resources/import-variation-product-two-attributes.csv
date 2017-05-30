@@ -1,0 +1,6 @@
+Product Title,SKU,Parent SKU,Price,Color,Size,Description
+Product 2 attributes,PARENT,,,,,This shirt is awesome.
+Product 2 attributes,CHILD1,PARENT,15,blue,S,
+Product 2 attributes,CHILD2,PARENT,15,red,M,
+Product 2 attributes,CHILD3,PARENT,15,yellow,L,
+Product 2 attributes,CHILD4,PARENT,15,green,XL,
