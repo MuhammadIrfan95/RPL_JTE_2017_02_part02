@@ -1,6 +1,6 @@
 <?php
 /**
- * Edit Site Themes Administration Screen
+ * Ubah tampilan situs
  *
  * @package WordPress
  * @subpackage Multisite
