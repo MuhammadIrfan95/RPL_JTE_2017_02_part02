@@ -1,6 +1,6 @@
 <?php
 /**
- * Ubah tampilan situs
+ * Ubah Tampilan Situs
  *
  * @package WordPress
  * @subpackage Multisite
