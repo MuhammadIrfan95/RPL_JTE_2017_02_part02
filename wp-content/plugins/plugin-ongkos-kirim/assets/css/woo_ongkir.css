@@ -1,0 +1,36 @@
+.form-row.form-row.validate-required.validate-required.woo_ongkir_loading.woocommerce-validated{
+	background: url('../load.gif');
+}
+
+.woo_ongkir_modal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('../load.gif') 
+                50% 50% 
+                no-repeat;
+}
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+body.loading {
+    overflow: hidden;   
+}
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .modal {
+    display: block;
+}
+.pok_loading {
+    opacity: 0.6;
+    cursor: progress;
+}
+.pok_loading * {
+    cursor: progress !important;
+}

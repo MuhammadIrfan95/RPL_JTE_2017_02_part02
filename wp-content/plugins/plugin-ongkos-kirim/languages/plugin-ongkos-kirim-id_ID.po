@@ -1,0 +1,838 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Ongkos Kirim\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-17 11:41+0700\n"
+"PO-Revision-Date: 2017-04-17 11:41+0700\n"
+"Last-Translator: eringga <eringga23@gmail.com>\n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: id_ID\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/js/jquery.js:19
+msgid "show"
+msgstr "tampilkan"
+
+#: ../assets/js/jquery.js:19
+msgid "hide"
+msgstr "sembunyikan"
+
+#: ../assets/js/jquery.js:19
+msgid "toggle"
+msgstr ""
+
+#: ../plugin-ongkos-kirim.php:44 ../plugin-ongkos-kirim.php:47
+msgid "Plugin Ongkos Kirim"
+msgstr "Plugin Ongkos Kirim"
+
+#: ../plugin-ongkos-kirim.php:45
+msgid "Shipping Method for Indonesia Marketplace"
+msgstr "Metode Pengiriman untuk pasar Indonesia"
+
+#: ../plugin-ongkos-kirim.php:84
+msgid "Enable/Disable"
+msgstr "Aktifkan/Matikan"
+
+#: ../plugin-ongkos-kirim.php:86
+msgid "Enable this shipping method"
+msgstr "Aktifkan Metode Pengiriman Ini"
+
+#: ../plugin-ongkos-kirim.php:258
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: ../plugin-ongkos-kirim.php:260 ../plugin-ongkos-kirim.php:332
+msgid "Custom Shipping Costs"
+msgstr "Ongkos Kirim Kustom"
+
+#: ../plugin-ongkos-kirim.php:309
+msgid "Plugin Ongkos Kirim Settings"
+msgstr "Pengaturan Plugin Ongkos Kirim"
+
+#: ../plugin-ongkos-kirim.php:517
+msgid "Please fill in all shipping detail's field to display shipping cost"
+msgstr "Isikan alamat pengiriman untuk menampilkan ongkos kirim"
+
+#: ../src/Controller/Admin.php:38 ../src/Controller/Admin.php:65
+#: ../src/Controller/CustomField.php:169 ../src/Controller/CustomField.php:177
+#: ../src/Controller/CustomField.php:284 ../src/Controller/CustomField.php:376
+#: ../src/bootstrap.php:178 ../src/bootstrap.php:194
+msgid "District"
+msgstr "Kecamatan"
+
+#: ../src/Controller/Admin.php:40 ../src/Controller/Admin.php:67
+#: ../src/Controller/CustomField.php:397 ../src/bootstrap.php:182
+#: ../src/bootstrap.php:198
+msgid "Town / City"
+msgstr "Kota / Kabupaten"
+
+#: ../src/Controller/Admin.php:43 ../src/Controller/Admin.php:70
+#: ../src/Controller/CustomField.php:138 ../src/Controller/CustomField.php:145
+#: ../src/Controller/CustomField.php:268 ../src/Controller/CustomField.php:360
+#: ../src/Controller/CustomField.php:395 ../src/bootstrap.php:186
+#: ../src/bootstrap.php:202
+msgid "Province"
+msgstr "Provinsi"
+
+#: ../src/Controller/Admin.php:83
+msgid "Woocommerce not active"
+msgstr "Woocommerce tidak aktif"
+
+#: ../src/Controller/Admin.php:87
+msgid "Plugin Ongkos Kirim needs active CURL"
+msgstr "CURL harus aktif"
+
+#: ../src/Controller/Admin.php:93
+msgid "License is not active."
+msgstr "Lisensi tidak aktif."
+
+#: ../src/Controller/Admin.php:99
+msgid "RajaOngkir API Key is not active."
+msgstr "API Key Rajaongkir tidak aktif."
+
+#: ../src/Controller/Admin.php:105
+msgid "Store Location is empty."
+msgstr "Lokasi Toko belum diset."
+
+#: ../src/Controller/Admin.php:109
+msgid "Selected Couriers is empty."
+msgstr "Tidak ada kurir yang dipilih."
+
+#: ../src/Controller/Admin.php:117
+msgid ""
+"<strong>Plugin Ongkos Kirim</strong> is disabled due to the following errors:"
+msgstr ""
+"<strong>Plugin Ongkos Kirim</strong> tidak aktif karena masalah berikut :"
+
+#: ../src/Controller/Ajax.php:62
+msgid "Server didn't respond"
+msgstr "Server tidak merespon"
+
+#: ../src/Controller/Ajax.php:136 ../src/Template/SettingField.php:748
+msgid "API key is empty"
+msgstr "API key belum diisi"
+
+#: ../src/Controller/Ajax.php:138
+msgid "API type is not valid"
+msgstr "Tipe API tidak valid"
+
+#: ../src/Controller/Ajax.php:142
+msgid "API Key is not valid"
+msgstr "API Key tidak valid"
+
+#: ../src/Controller/Core.php:175
+msgid "Custom Shipping"
+msgstr "Ongkos Kirim Kustom"
+
+#: ../src/Controller/CustomField.php:48 ../src/Controller/CustomField.php:139
+#: ../src/Controller/CustomField.php:146 ../src/Controller/CustomField.php:219
+#: ../src/Controller/CustomField.php:269 ../src/Controller/CustomField.php:311
+#: ../src/Controller/CustomField.php:361 ../src/Helpers/Helpers.php:223
+msgid "Select Province"
+msgstr "Pilih Provinsi"
+
+#: ../src/Controller/CustomField.php:55 ../src/Controller/CustomField.php:226
+#: ../src/Controller/CustomField.php:318
+msgid "Failed to load data. Please refresh the page."
+msgstr "Gagal mengambil data. Harap muat ulang halaman."
+
+#: ../src/Controller/CustomField.php:61
+msgid "Please fill the origin city in plugin ongkos kirim configuration page"
+msgstr "Harap isi kota asal pada halaman konfigurasi plugin ongkos kirim"
+
+#: ../src/Controller/CustomField.php:92 ../src/Controller/CustomField.php:97
+#: ../src/Controller/CustomField.php:245 ../src/Controller/CustomField.php:337
+msgid "First Name"
+msgstr "Nama Depan"
+
+#: ../src/Controller/CustomField.php:94 ../src/Controller/CustomField.php:99
+#: ../src/Controller/CustomField.php:247 ../src/Controller/CustomField.php:339
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+#: ../src/Controller/CustomField.php:102 ../src/Controller/CustomField.php:106
+#: ../src/Controller/CustomField.php:250 ../src/Controller/CustomField.php:342
+msgid "Address"
+msgstr "Alamat"
+
+#: ../src/Controller/CustomField.php:110 ../src/Controller/CustomField.php:115
+#: ../src/Controller/CustomField.php:253 ../src/Controller/CustomField.php:345
+#: ../src/Controller/CustomField.php:396
+msgid "Postcode / ZIP"
+msgstr "Kode Pos"
+
+#: ../src/Controller/CustomField.php:120 ../src/Controller/CustomField.php:122
+#: ../src/Controller/CustomField.php:258 ../src/Controller/CustomField.php:350
+msgid "Email Address"
+msgstr "Alamat Email"
+
+#: ../src/Controller/CustomField.php:125 ../src/Controller/CustomField.php:127
+#: ../src/Controller/CustomField.php:261 ../src/Controller/CustomField.php:353
+msgid "Phone"
+msgstr "Telepon"
+
+#: ../src/Controller/CustomField.php:130 ../src/Controller/CustomField.php:134
+#: ../src/Controller/CustomField.php:264 ../src/Controller/CustomField.php:356
+msgid "Country"
+msgstr "Negara"
+
+#: ../src/Controller/CustomField.php:153 ../src/Controller/CustomField.php:161
+#: ../src/Controller/CustomField.php:185 ../src/Controller/CustomField.php:192
+#: ../src/Controller/CustomField.php:276 ../src/Controller/CustomField.php:292
+#: ../src/Controller/CustomField.php:368 ../src/Controller/CustomField.php:384
+msgid "City"
+msgstr "Kota"
+
+#: ../src/Controller/CustomField.php:154 ../src/Controller/CustomField.php:157
+#: ../src/Controller/CustomField.php:162 ../src/Controller/CustomField.php:165
+#: ../src/Controller/CustomField.php:186 ../src/Controller/CustomField.php:188
+#: ../src/Controller/CustomField.php:193 ../src/Controller/CustomField.php:195
+#: ../src/Controller/CustomField.php:277 ../src/Controller/CustomField.php:280
+#: ../src/Controller/CustomField.php:293 ../src/Controller/CustomField.php:295
+#: ../src/Controller/CustomField.php:369 ../src/Controller/CustomField.php:372
+#: ../src/Controller/CustomField.php:385 ../src/Controller/CustomField.php:387
+#: ../src/Controller/CustomField.php:411
+msgid "Select City"
+msgstr "Pilih Kota/Kabupaten"
+
+#: ../src/Controller/CustomField.php:170 ../src/Controller/CustomField.php:173
+#: ../src/Controller/CustomField.php:178 ../src/Controller/CustomField.php:181
+#: ../src/Controller/CustomField.php:285 ../src/Controller/CustomField.php:288
+#: ../src/Controller/CustomField.php:377 ../src/Controller/CustomField.php:380
+#: ../src/Controller/CustomField.php:413
+msgid "Select District"
+msgstr "Pilih Kecamatan"
+
+#: ../src/Controller/CustomField.php:409
+msgid "Failed to load city list. Try again?"
+msgstr "Gagal memuat data kota. Coba lagi?"
+
+#: ../src/Controller/CustomField.php:410
+msgid "Failed to load district list. Try again?"
+msgstr "Gagal memuat data kecamatan. Coba lagi?"
+
+#: ../src/Controller/CustomField.php:412
+msgid "Loading city options..."
+msgstr "Mengambil data kota..."
+
+#: ../src/Controller/CustomField.php:414
+msgid "Loading district options..."
+msgstr "Mengambil data kecamatan..."
+
+#: ../src/Helpers/Helpers.php:110
+msgid "Unique numbers"
+msgstr "Nomor Unik"
+
+#: ../src/Helpers/Helpers.php:249
+msgid "Total Shipping Weight"
+msgstr "Berat pengiriman total"
+
+#: ../src/Model/API.php:338 ../src/Template/SettingField.php:702
+#: ../src/Template/SettingField.php:710 ../src/Template/SettingField.php:729
+#: ../src/Template/SettingField.php:737 ../src/Template/SettingField.php:766
+#: ../src/Template/SettingField.php:774 ../src/Template/SettingField.php:801
+msgid "can not connect server"
+msgstr "gagal terhubung dengan server"
+
+#: ../src/Template/CustomShippingCosts.php:4
+msgid "Custom Courier Name"
+msgstr "Nama Kurir Kustom milik Anda"
+
+#: ../src/Template/CustomShippingCosts.php:12
+msgid "Your custom courier name"
+msgstr "Nama kurir kustom"
+
+#: ../src/Template/CustomShippingCosts.php:17
+msgid "Custom Shipping Cost Type"
+msgstr "Tipe Ongkos Kirim Kustom"
+
+#: ../src/Template/CustomShippingCosts.php:28
+msgid ""
+"Append: Add courier option for selected destination inside cost table. <br/"
+">Replace: Courier option for selected destination only use custom courier."
+msgstr ""
+"Append: Tambahkan opsi kurir pada destinasi yang dipilih dalam tabel custom "
+"tarif. <br/>Replace: Opsi kurir pada tujuan yang dipilih hanya menggunakan "
+"custom kurir saja"
+
+#: ../src/Template/CustomShippingCosts.php:36
+msgid "Destination"
+msgstr "Tujuan"
+
+#: ../src/Template/CustomShippingCosts.php:37
+#: ../src/Template/SettingField.php:336 ../src/Template/SettingField.php:358
+msgid "Courier"
+msgstr "Pilih Kurir"
+
+#: ../src/Template/CustomShippingCosts.php:38
+msgid "Service Name"
+msgstr "Nama Layanan"
+
+#: ../src/Template/CustomShippingCosts.php:39
+msgid "Cost per Kg"
+msgstr "Tarif per Kg"
+
+#: ../src/Template/CustomShippingCosts.php:68
+#: ../src/Template/CustomShippingCosts.php:151
+msgid "Delete"
+msgstr "Hapus"
+
+#: ../src/Template/CustomShippingCosts.php:77
+msgid "All Province"
+msgstr "Semua Provinsi"
+
+#: ../src/Template/CustomShippingCosts.php:87
+#: ../src/Template/CustomShippingCosts.php:177
+msgid "All City"
+msgstr "Semua Kota/Kab."
+
+#: ../src/Template/CustomShippingCosts.php:92
+#: ../src/Template/CustomShippingCosts.php:184
+#: ../src/Template/CustomShippingCosts.php:198
+msgid "All District"
+msgstr "Semua Kecamatan"
+
+#: ../src/Template/CustomShippingCosts.php:112
+msgid "Add"
+msgstr "Tambahkan"
+
+#: ../src/Template/SettingField.php:3
+msgid "Base Server"
+msgstr "Lokasi Server"
+
+#: ../src/Template/SettingField.php:22
+msgid "Location of your web server/hoster"
+msgstr "Lokasi website atau web hoster Anda"
+
+#: ../src/Template/SettingField.php:29
+msgid "License Plugin Ongkos Kirim"
+msgstr "Lisensi Plugin Ongkos Kirim"
+
+#: ../src/Template/SettingField.php:51
+msgid ""
+"Plugin Ongkos Kirim License. <br>Check your license here <a target=\"_blank"
+"\" href=\"https://tonjoostudio.com/manage/plugin/\">https://tonjoostudio.com/"
+"manage/plugin/</a>"
+msgstr ""
+"Lisensi Plugin Ongkos Kirim. <br>Cek kode lisensi Anda disini <a target="
+"\"_blank\" href=\"https://tonjoostudio.com/manage/plugin/\">https://"
+"tonjoostudio.com/manage/plugin/</a>"
+
+#: ../src/Template/SettingField.php:58
+msgid "API Ongkos Kirim"
+msgstr "API Ongkos Kirim"
+
+#: ../src/Template/SettingField.php:77
+msgid "Use our default premium API, or Rajaongkir API"
+msgstr "Gunakan API premium default kami, atau gunakan Raja Ongkir API"
+
+#: ../src/Template/SettingField.php:85 ../src/Template/SettingField.php:108
+msgid "Type API Raja Ongkir"
+msgstr "Tipe API Key Raja Ongkir"
+
+#: ../src/Template/SettingField.php:115
+msgid "API Key Raja Ongkir"
+msgstr "API Key Raja Ongkir"
+
+#: ../src/Template/SettingField.php:136
+msgid ""
+"API Key Raja Ongkir. <br>Check your API key here <a target=\"_blank\" href="
+"\"http://rajaongkir.com/akun/panel\">http://rajaongkir.com/akun/panel</a>"
+msgstr ""
+"API Key Raja Ongkir. <br>Cek API Key Anda disini <a target=\"_blank\" href="
+"\"http://rajaongkir.com/akun/panel\">http://rajaongkir.com/akun/panel</a>"
+
+#: ../src/Template/SettingField.php:147
+msgid "Select Couriers"
+msgstr "Pilih Kurir Anda"
+
+#: ../src/Template/SettingField.php:151
+msgid "Courier Type"
+msgstr "Pilih Tipe Kurir Anda"
+
+#: ../src/Template/SettingField.php:167
+msgid "Courier Type.<br>(*) = International shipping only."
+msgstr "Pilih Kurir Anda.<br>(*) = Khusus pengiriman internasional."
+
+#: ../src/Template/SettingField.php:167
+msgid "Courier Type."
+msgstr "Tipe Kurir"
+
+#: ../src/Template/SettingField.php:173 ../src/Template/SettingField.php:193
+msgid "Store Location"
+msgstr "Lokasi Toko"
+
+#: ../src/Template/SettingField.php:177
+msgid "Location of your store. You can insert multiple location"
+msgstr "Lokasi Toko Anda. Anda bisa memasukan banyak lokasi toko sekaligus"
+
+#: ../src/Template/SettingField.php:182
+msgid "Select Store Location"
+msgstr "Pilih Lokasi Toko"
+
+#: ../src/Template/SettingField.php:202
+msgid "Show Advanced Options"
+msgstr "Tampilkan Pengaturan Tingkat Lanjut"
+
+#: ../src/Template/SettingField.php:206
+msgid "Hide Advanced Options"
+msgstr "Sembunyikan Pengaturan Tingkat Lanjut"
+
+#: ../src/Template/SettingField.php:215
+msgid "Enable International Shipping"
+msgstr "Pengiriman Internasional"
+
+#: ../src/Template/SettingField.php:232
+msgid "Show international shipping costs"
+msgstr "Tampilkan tarif pengiriman internasional"
+
+#: ../src/Template/SettingField.php:237
+msgid "Show Long Description on Checkout"
+msgstr "Tampilkan Keterangan Layanan di Checkout"
+
+#: ../src/Template/SettingField.php:254
+msgid ""
+"Show long description for each courier service. Example: <strong>JNE - REG</"
+"strong> becomes <strong>JNE - REG (Layanan Reguler)</strong>"
+msgstr ""
+"Tampilkan keterangan untuk masing-masing layanan. Contoh: <strong>JNE - REG</"
+"strong> jadi <strong>JNE - REG (Layanan Reguler)</strong>"
+
+#: ../src/Template/SettingField.php:262
+msgid "Filter Courier Package Type"
+msgstr "Filter Tipe Paket Kurir"
+
+#: ../src/Template/SettingField.php:279
+msgid "Specific Courier Package Type"
+msgstr "Tipe Pengiriman Spesifik Jasa Ekspedisi"
+
+#: ../src/Template/SettingField.php:285
+msgid "Filter Couriers Type"
+msgstr "Filter Tipe Kurir"
+
+#: ../src/Template/SettingField.php:289 ../src/Template/SettingField.php:340
+msgid "You can filter certain courier package type, based on their services"
+msgstr ""
+"Anda bisa mem-filter tipe pengiriman berdasarkan servis mereka (Misal, YES, "
+"OKE, KILAT, dll)"
+
+#: ../src/Template/SettingField.php:307
+msgid "Select Specific Courier Type"
+msgstr "Pilih Tipe Jasa Ekspedisi Secara Spesifik"
+
+#: ../src/Template/SettingField.php:313
+msgid "Secondary Courier"
+msgstr "Kurir pilihan sekunder"
+
+#: ../src/Template/SettingField.php:330
+msgid "If the prefered courier is not found, secondary courier will be use"
+msgstr "Jika kurir pada filter tidak ditemukan, kurir sekunder akan digunakan"
+
+#: ../src/Template/SettingField.php:364
+msgid "Round Shipping Weight"
+msgstr "Pembulatan Berat Pengiriman"
+
+#: ../src/Template/SettingField.php:369
+msgid "Auto"
+msgstr "Otomatis"
+
+#: ../src/Template/SettingField.php:370
+msgid "Ceil"
+msgstr "Dibulatkan Keatas"
+
+#: ../src/Template/SettingField.php:371
+msgid "Floor"
+msgstr "Dibulatkan Kebawah"
+
+#: ../src/Template/SettingField.php:376
+msgid "How shipping weight will be rounded"
+msgstr "Pembulatan berat pengiriman"
+
+#: ../src/Template/SettingField.php:382
+msgid "Shipping Weight Rounding Limit (gram)"
+msgstr "Batas Pembulatan Berat Pengiriman (gram)"
+
+#: ../src/Template/SettingField.php:390
+msgid ""
+"If shipping weight is less equal to the limit, it will rounding down."
+"<br>Otherwise, it will be rounding up."
+msgstr ""
+"Jika berat pengiriman berada dibawah atau sama dengan batas pembulatan, maka "
+"berat akan dibulatkan kebawah. Sebaliknya, berat akan dibulatkan ke atas."
+
+#: ../src/Template/SettingField.php:397
+msgid "Show Shipping Weight"
+msgstr "Tampilkan Berat Pengiriman"
+
+#: ../src/Template/SettingField.php:414
+msgid "Show shipping weight on checkout page"
+msgstr "Tampilkan berat pengiriman pada halaman checkout"
+
+#: ../src/Template/SettingField.php:420
+msgid "Transaction With Unique Number"
+msgstr "Transaksi Dengan Nomor Unik"
+
+#: ../src/Template/SettingField.php:437
+msgid "Unique number is to easily differ one order from another"
+msgstr ""
+"Nomor unik untuk memudahkan Anda membedakan order yang satu dengan yang "
+"lainnya"
+
+#: ../src/Template/SettingField.php:443
+msgid "Transaction Unique Number Length"
+msgstr "Panjang Nomor Unik Transaksi"
+
+#: ../src/Template/SettingField.php:460
+msgid "Length of your Unique Number Transaction"
+msgstr "Panjang nomor unik transaksi Anda"
+
+#: ../src/Template/SettingField.php:466
+msgid "Enable Additional Shipping Cost"
+msgstr "Aktifkan Ongkos Kirim Tambahan"
+
+#: ../src/Template/SettingField.php:483
+msgid "You can mark-up/mark-down your shipping cost based on your need."
+msgstr ""
+"Anda bisa menambahkan/mengurangi sendiri biaya ongkos kirim sesuai keinginan/"
+"kebutuhan Anda. "
+
+#: ../src/Template/SettingField.php:489
+msgid "Additional Shipping Cost"
+msgstr "Ongkos Kirim Tambahan"
+
+#: ../src/Template/SettingField.php:497
+msgid ""
+"Additional/Reduction Shipping Price here. (insert negative value for "
+"reduction)"
+msgstr ""
+"Masukkan penambahan/pengurangan ongkos kirim. (gunakan notasi negative untuk "
+"pengurangan)"
+
+#: ../src/Template/SettingField.php:503
+msgid "Transient Request Interval (Hour)"
+msgstr "Transient Request Interval (Berdasarkan jam)"
+
+#: ../src/Template/SettingField.php:515
+msgid ""
+"Transient Request Interval is a feature that keep your shipping cost data as "
+"a stored cache. This feature will significally increase your website speed"
+msgstr ""
+"Lama Data disimpan didalam cache (transient). Cache digunakan untuk "
+"mempercepat plugin ini mendapat data tarif tanpa perlu menghubungi server "
+"terlebihdahulu"
+
+#: ../src/Template/SettingField.php:521 ../src/Template/SettingField.php:540
+msgid "Default Shipping Weight"
+msgstr "Berat Pengiriman Default"
+
+#: ../src/Template/SettingField.php:546
+msgid "Save Returned User Information"
+msgstr "Simpan Data Alamat User yang Terdaftar"
+
+#: ../src/Template/SettingField.php:563
+msgid ""
+"Auto-fill checkout field with saved address if customer is a returning user."
+msgstr ""
+"Halaman checkout secara otomatis akan terisi dengan data yang telah "
+"disimpan, sehingga user tidak perlu menginputkan alamat lagi."
+
+#: ../src/Template/SettingField.php:569
+msgid "Flush Cache"
+msgstr "Flush Cache"
+
+#: ../src/Template/SettingField.php:573
+msgid "Are you sure?"
+msgstr "Apa Anda yakin?"
+
+#: ../src/Template/SettingField.php:577
+msgid "Delete all cached data"
+msgstr "Hapus semua data yang disimpan di cache"
+
+#: ../src/Template/SettingField.php:582
+msgid "Reset Configuration"
+msgstr "Reset Pengaturan"
+
+#: ../src/Template/SettingField.php:586
+msgid "Are you sure? By doing this, you need to reactivate plugin license."
+msgstr ""
+"Apakah Anda yakin? Setelah pengaturan dikembalikan seperti semula, Anda "
+"harus melakukan aktivasi lisensi lagi."
+
+#: ../src/Template/SettingField.php:590
+msgid "Delete all saved configuration just like fresh install."
+msgstr "Hapus semua pengaturan yang telah tersimpan."
+
+#: ../src/Template/SettingField.php:598
+msgid "Check License Status"
+msgstr ""
+
+#: ../src/Template/SettingField.php:650
+msgid ""
+"You are switching RajaOngkir API Type. Consider to click \"Change API Key\" "
+"button again to make sure this change happen."
+msgstr ""
+"Anda sedang mengganti tipe API RajaOngkir. Klik tombol \"Change API Key\" "
+"lagi untuk memastikan perubahan ini terjadi."
+
+#: ../src/Template/SettingField.php:664
+msgid ""
+"Are you sure? Switching base API will delete all cached data and custom "
+"shipping costs. \\nAlso, you might need to re-set your store location."
+msgstr ""
+"Apakah Anda yakin? Mengganti base API akan menghapus semua data yang "
+"disimpan di cache dan semua ongkos kirim kustom. \\nAnda mungkin juga harus "
+"men-set ulang lokasi toko Anda."
+
+#: ../src/Template/SettingField.php:685 ../src/Template/SettingField.php:784
+msgid "License key is empty"
+msgstr "Lisensi belum diisi"
+
+#: ../src/Template/SettingField.php:688 ../src/Template/SettingField.php:716
+#: ../src/Template/SettingField.php:751 ../src/Template/SettingField.php:787
+msgid "checking server..."
+msgstr "menghubungi server..."
+
+#: ../src/bootstrap.php:72
+msgid "<b>Billing district</b> is required"
+msgstr "<b>Billing Kecamatan</b> diperlukan"
+
+#: ../src/bootstrap.php:76
+msgid "<b>Shipping district</b> is required"
+msgstr "<b>Billing kecamatan</b> is required"
+
+#: ../src/bootstrap.php:175
+msgid "Billing address details"
+msgstr "Detail alamat penagihan"
+
+#: ../src/bootstrap.php:191
+msgid "Shipping address details"
+msgstr "Detail alamat pengiriman"
+
+#: ../teman-plugin.php:139
+#, php-format
+msgid "<p>%1$s recommends the following plugin: %2$s</p>"
+msgstr "<p>%1$s merekomendasikan plugin berikut: %2$s</p>"
+
+#: ../teman-plugin.php:144
+#, php-format
+msgid "<p>%1$s recommended plugin is currently inactive: %2$s</p>"
+msgstr ""
+"<p>Plugin yang direkomendasikan oleh %1$s, terinstall tetapi tidak aktif: "
+"%2$s</p>"
+
+#: ../teman-plugin.php:149
+#, php-format
+msgid "%1$s Do not bug me again %2$s Remind me later %3$s"
+msgstr "%1$s Jangan ingatkan lagi %2$s Ingatkan lain kali %3$s"
+
+#: ../tonjoo-plugin-updater/library-license-wordpress/tonjoo_license.php:372
+#, php-format
+msgid ""
+" <a href=\"%1$s\" style=\"float:right;margin-top:5px;color:#a00;\">Hide "
+"Notice</a>"
+msgstr ""
+" <a href=\"%1$s\" style=\"float:right;margin-top:5px;color:#a00;"
+"\">Sebunyikan Notice</a>"
+
+#~ msgid "State"
+#~ msgstr "Provinsi"
+
+#~ msgid "District:"
+#~ msgstr "Kecamatan:"
+
+#~ msgid "Town / City:"
+#~ msgstr "Kota / Kabupaten"
+
+#~ msgid "Package Name"
+#~ msgstr "Nama Layanan"
+
+#~ msgid "Failed to connect server."
+#~ msgstr "Gagal terhubung dengan server."
+
+#~ msgid "Additional Shipping Price here"
+#~ msgstr "Masukan biaya ongkos kirim tambahan sesuai keinginan Anda disini"
+
+#~ msgid "You can mark-up your shipping cost based on your need"
+#~ msgstr ""
+#~ "Anda bisa menambahkan sendiri biaya ongkos kirim sesuai keinginan/"
+#~ "kebutuhan Anda"
+
+#~ msgid "Show Shipping Cost By Kg"
+#~ msgstr "Tampilkan ongkos kirim per kg"
+
+#~ msgid "Woo Ongkir Need Activate CURL!"
+#~ msgstr "Woo Ongkir Membutuhkan CURL! (Harap Hubungi Administrator)"
+
+#~ msgid ""
+#~ "Please activate the <code>Enable shipping</code> option on the <a href="
+#~ "\"%1$s\">Shipping Options</a> to enable this shipping method."
+#~ msgstr ""
+#~ "Silahkan aktifkan opsi <code>Enable shipping</code> di halaman <a href="
+#~ "\"%1$s\">Shipping Options</a> untuk mengaktifkan Plugin Ongkos Kirim."
+
+#~ msgid "Estimated Time (days)"
+#~ msgstr "Waktu Pengiriman (hari)"
+
+#~ msgid "Shipping Information Column"
+#~ msgstr "Kolom Informasi Pengiriman"
+
+#~ msgid "Data not available (Please Contact Administrator)"
+#~ msgstr "Data tidak tersedia (Harap hubungi Administrator)"
+
+#~ msgid "Shipping Cost By Kg"
+#~ msgstr "Ongkos kirim per kg"
+
+#~ msgid ""
+#~ "Append: Add courier option for selected destination inside cost table. "
+#~ "Replace: Courier option for selected destination only use custom courier"
+#~ msgstr ""
+#~ "Append: Tambahkan opsi kurir pada destinasi yang dipilih dalam tabel "
+#~ "custom tarif. <br/>Replace: Opsi kurir pada tujuan yang dipilih hanya "
+#~ "menggunakan custom kurir saja"
+
+#~ msgid ""
+#~ "Are you sure want to change the setting into simple ? all configuration "
+#~ "data will be reverted to default"
+#~ msgstr ""
+#~ "Apakah anda yakin mengganti layar opsi menjadi layar opsi sederhana ? "
+#~ "Semua konfigurasi data akan dikembalikan ke default "
+
+#~ msgid ""
+#~ "Are you sure want to change the setting into advance ? all configuration "
+#~ "data will be reverted to default"
+#~ msgstr ""
+#~ "Apakah anda yakin mengganti layar opsi menjadi layar opsi pengaturan "
+#~ "lanjut ? Semua konfigurasi data akan dikembalikan ke default "
+
+#~ msgid "Simple settings"
+#~ msgstr "Pengaturan sederhana"
+
+#~ msgid "Advance settings"
+#~ msgstr "Pengaturan Lanjut"
+
+#~ msgid "API Key Raja Ongkir is Not Active"
+#~ msgstr "API Key Raja Ongkir Tidak Aktif"
+
+#~ msgid "Server is bussy, please switch base server"
+#~ msgstr "Server sibuk, silahkan pilih server lain"
+
+#~ msgid "Specific Courier Type"
+#~ msgstr "Tipe Kurir Spesifik"
+
+#~ msgid "Additional Shipping Cost here"
+#~ msgstr "Masukan Ongkos Kirim Tambahan Disini"
+
+#~ msgid "Transient Request Interval"
+#~ msgstr ""
+#~ "Lama Data disimpan didalam cache (transient). Cache digunakan untuk "
+#~ "mempercepat plugin ini mendapat data tarif tanpa perlu menghubungi server "
+#~ "terlebihdahulu"
+
+#~ msgid ""
+#~ "Plugin Ongkos Kirim License. <br>check your license here <a href="
+#~ "\"https://tonjoostudio.com/manage/plugin/\">https://tonjoostudio.com/"
+#~ "manage/plugin/</a>"
+#~ msgstr ""
+#~ "Licensi Plugin Ongkos Kirim . <br>Check kode lisensi anda disini <a href="
+#~ "\"https://tonjoostudio.com/manage/plugin/\">https://tonjoostudio.com/"
+#~ "manage/plugin/</a>"
+
+#~ msgid "Custom / Free Ongkos Kirim"
+#~ msgstr "Custom / Free Ongkos Kirim"
+
+#~ msgid ""
+#~ "(Custom Tarif is a feature to add your own custom shipping cost manualy "
+#~ "to selected destination)"
+#~ msgstr ""
+#~ "(Custom Tarif adalah sebuah fitur yang memungkinkan Anda menentukan "
+#~ "ongkos kirim secara manual ke tujuan tertentu)"
+
+#~ msgid "Your Custom Courier Name"
+#~ msgstr "Nama Kustom Kurir milik Anda"
+
+#~ msgid "Custom / Free Ongkos Kirim Type"
+#~ msgstr "Custom / Free Ongkos Kirim"
+
+#~ msgid ""
+#~ "Append: Add courier option for choosen destination in custom tarif table. "
+#~ "Replace: Selected courier option only use custom courier"
+#~ msgstr ""
+#~ "Tambahkan: Tambahkan opsi kurir pada destinasi yang dipilih dalam tabel "
+#~ "custom tarif. Gantikan: Opsi kurir pada tujuan yang dipilih hanya "
+#~ "menggunakan custom kurir saja"
+
+#~ msgid "Append"
+#~ msgstr "Tambahkan"
+
+#~ msgid "Replace"
+#~ msgstr "Gantikan"
+
+#~ msgid "To make the shipping free, fill 0 as price or just let it blank."
+#~ msgstr ""
+#~ "Untuk membuat ongkos kirim gratis, masukkan 0 sebagai harga, atau "
+#~ "silahkan kolom harga dikosongi"
+
+#~ msgid "Add Custom Courier"
+#~ msgstr "Tambahkan Custom Kurir"
+
+#~ msgid "Your custom courier"
+#~ msgstr "Custom Kurir Anda"
+
+#~ msgid "License Nusantara Ongkir"
+#~ msgstr "Lisensi Nusantara Ongkir"
+
+#~ msgid "Custom Tarif"
+#~ msgstr "Custom Tarif"
+
+#, fuzzy
+#~ msgid "Courier type alternative"
+#~ msgstr "Pilih Tipe Kurir Anda"
+
+#~ msgid "Alternatif Filter Tipe Paket Kurir"
+#~ msgstr "Alternatif filter tipe paket kurir"
+
+#~ msgid "Woo Ongkir"
+#~ msgstr "Plugin Ongkos Kirim"
+
+#~ msgid "Woo Ongkir Settings"
+#~ msgstr "Pengaturan Plugin Ongkos Kirim"
+
+#~ msgid "License Code"
+#~ msgstr "Kode Lisensi"
+
+#~ msgid "Check License"
+#~ msgstr "Periksa Lisensi"
+
+#~ msgid "Status License"
+#~ msgstr "Status Lisensi"
+
+#~ msgid ""
+#~ "Register your license code here to get all the benefits Woo Ongkir. <div "
+#~ "style=\"height:10px;\"></div>click  \n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a target=\"_blank\" href=\"https://"
+#~ "tonjoostudio.com/manage/plugin\">https://tonjoostudio.com/manage/plugin</"
+#~ "a> to get your license code"
+#~ msgstr ""
+#~ "Daftarkan lisensi Plugin Ongkos Kirim Anda disini untuk mendapatkan semua "
+#~ "keuntungan. <div style=\"height:10px;\"></div>click <a target=\"_blank\" "
+#~ "href=\"https://tonjoostudio.com/manage/plugin\">https://tonjoostudio.com/"
+#~ "manage/plugin</a> to get your license code"
+
+#~ msgid "Total Berat Barang"
+#~ msgstr "Total Berat Barang"
+
+#~ msgid "Support woocomerce calculation your shipping cost"
+#~ msgstr "Mendukung kalkulasi pengiriman woocommerce Anda"
