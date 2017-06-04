@@ -9,7 +9,7 @@
 * @package WordPress
 * @subpackage Shopme
 * @since Shopme 1.0
-*/
+*/tambah halaman distributor
 
 get_header(); ?>
 
