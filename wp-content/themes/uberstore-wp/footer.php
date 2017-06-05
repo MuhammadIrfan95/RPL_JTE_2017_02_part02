@@ -84,7 +84,7 @@
 	<div id="subfooter">
 		<div class="row">
 			<div class="small-12 medium-4 columns">
-				<p><?php echo ot_get_option('copyright','COPYRIGHT 2014 FUEL THEMES. All RIGHTS RESERVED.'); ?> </p>
+				<p><?php echo ot_get_option('copyright','COPYRIGHT Masuk.in 2017 All RIGHTS RESERVED.'); ?> </p>
 			</div>
 			<div class="small-12 medium-8 columns paymenttypes-container">
 				<?php if (ot_get_option('payment_visa') != 'off') { ?>

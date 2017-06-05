@@ -1,6 +1,6 @@
 <?php
 /**
- * Build Network Administration Menu.
+ * Menu jaringan admintrasi.
  *
  * @package WordPress
  * @subpackage Multisite
