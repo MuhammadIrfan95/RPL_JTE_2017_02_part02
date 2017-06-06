@@ -1,0 +1,317 @@
+{
+  "services": {
+    "parse": {
+      "pushEnabled": false,
+      "active": false
+    },
+    "facebook": {
+      "active": false
+    },
+    "oneSignal": {
+      "active": false
+    },
+    "registration": {
+      "endpoints": [
+        {
+          "dataType": [
+            "parse",
+            "oneSignal"
+          ],
+          "urlRegex": null,
+          "url": null
+        }
+      ],
+      "active": false
+    },
+    "analytics": {
+      "active": false
+    },
+    "push": {
+      "active": false
+    }
+  },
+  "performance": {
+    "webviewPools": [
+      {
+        "urls": [
+          {
+            "disown": "reload"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "usesGeolocation": true
+  },
+  "forms": {
+    "signupConfig": {
+      "active": false,
+      "formSelector": null,
+      "formInputs": []
+    },
+    "loginConfig": {
+      "formSelector": null,
+      "loginIsFirstPage": false,
+      "formInputs": []
+    },
+    "search": {
+      "active": false
+    },
+    "interceptForms": {
+      "forms": []
+    }
+  },
+  "styling": {
+    "icon": "https://gonativeio.s3.amazonaws.com/uploads/gd2vhhn2x1pag_1496734782725.png",
+    "iosHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/8tva21vtm2xqw_1496735461835.png",
+    "showActionBar": true,
+    "showNavigationBar": true,
+    "iosSidebarFont": "Default",
+    "androidHideTitleInActionBar": true,
+    "navigationTitleImage": false,
+    "iosTheme": "light",
+    "androidTheme": "light",
+    "androidSidebarBackgroundColor": "#FFFFFF",
+    "androidSidebarForegroundColor": "#777777",
+    "androidActionBarBackgroundColor": "#D6D1FF",
+    "androidActionBarForegroundColor": "#000000",
+    "androidPullToRefreshColor": "#777777",
+    "androidAccentColor": "#009688",
+    "androidSidebarSeparatorColor": "#585858",
+    "androidTabBarBackgroundColor": "#bdbdbd",
+    "androidTabBarTextColor": "#000000",
+    "androidTabBarIndicatorColor": "#000000",
+    "iosTitleColor": "#333333",
+    "iosTintColor": "#0091fe",
+    "iosSidebarTextColor": "#333333",
+    "androidStatusBarBackgroundColor": "#00A8D2",
+    "androidHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/bt3nbpvhnxpmp_1496736118300.png",
+    "hideWebviewAlpha": 0.5,
+    "disableAnimations": false,
+    "androidShowSplash": true,
+    "androidLaunchImages": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862205_czqjgwwm0j77y_180x180.9.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862207_c513axerdaxuy_270x270.9.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862208_0e2cuh0k0a36w_360x360.9.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862208_nmaejk9r23hmj_540x540.9.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862208_1zdcfprhu1nau_720x720.9.png"
+    },
+    "menuAnimationDuration": 0.15,
+    "transitionInteractiveDelayMax": 0.2
+  },
+  "navigation": {
+    "androidShowRefreshButton": true,
+    "iosShowRefreshButton": false,
+    "deepLinkDomains": [],
+    "navigationLevels": {
+      "levels": [
+        null
+      ]
+    },
+    "toolbarNavigation": null,
+    "ignorePageFinishedRegexes": [],
+    "redirects": [],
+    "navigationTitles": {
+      "titles": [
+        null
+      ]
+    },
+    "regexInternalExternal": {
+      "active": false,
+      "rules": [
+        {
+          "regex": "^(?!https?://).*",
+          "internal": false
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/login.php.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/dialog.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/v1\\.0/.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/oauth.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/v2\\.0/.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/checkpoint.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*plus\\.google\\.com/share.*",
+          "internal": false
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*twitter\\.com/.*",
+          "internal": false
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*instagram\\.com/.*",
+          "internal": false
+        },
+        {
+          "regex": "https?://maps\\.google\\.com.*",
+          "internal": false
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*linkedin\\.com/.*",
+          "internal": false
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*google\\.com/maps/search/.*",
+          "internal": false
+        },
+        {
+          "regex": ".*",
+          "internal": true
+        }
+      ]
+    },
+    "sidebarNavigation": {
+      "menus": [
+        {
+          "name": "default",
+          "active": true,
+          "items": [
+            {
+              "url": "https://masukin.readyshops.net/product-category/barang-pecah-belah/",
+              "label": "Pecah belah",
+              "icon": "fa-glass",
+              "subLinks": []
+            },
+            {
+              "url": "https://masukin.readyshops.net/product-category/elektronik/",
+              "label": "Elektronik",
+              "icon": "fa-laptop",
+              "subLinks": []
+            },
+            {
+              "url": "https://masukin.readyshops.net/product-category/mainan/",
+              "label": "Mainan",
+              "icon": "fa-bug",
+              "subLinks": []
+            },
+            {
+              "url": "https://masukin.readyshops.net/product-category/askesoris/",
+              "label": "Aksesoris",
+              "icon": "fa-heart",
+              "subLinks": []
+            },
+            {
+              "url": "https://masukin.readyshops.net/product-category/alat-masak/",
+              "label": "Alat masak",
+              "icon": "fa-cutlery",
+              "subLinks": []
+            },
+            {
+              "url": "https://masukin.readyshops.net/kontak-distributor/",
+              "label": "Kontak distributor",
+              "icon": "fa-user",
+              "subLinks": []
+            },
+            {
+              "url": "https://masukin.readyshops.net/cekresi/",
+              "label": "Cekresi",
+              "icon": "fa-book",
+              "subLinks": []
+            },
+            {
+              "label": "CheckOut",
+              "url": "https://masukin.readyshops.net/Pembayaran/",
+              "icon": "fa-tag",
+              "subLinks": []
+            },
+            {
+              "label": "Login",
+              "url": "https://masukin.readyshops.net/akun/",
+              "icon": "fa-user",
+              "subLinks": []
+            }
+          ]
+        },
+        {
+          "name": "loggedIn",
+          "active": false,
+          "items": [
+            {
+              "url": "https://masukin.readyshops.net/pembayaran/",
+              "label": "Checkout",
+              "subLinks": []
+            },
+            {
+              "url": "https://masukin.readyshops.net/akun/",
+              "label": "Login",
+              "subLinks": []
+            }
+          ]
+        }
+      ],
+      "menuSelectionConfig": {
+        "testURL": null,
+        "redirectLocations": [
+          {
+            "regex": null,
+            "menuName": "default",
+            "loggedIn": false
+          },
+          {
+            "regex": ".*",
+            "menuName": "default",
+            "loggedIn": true
+          }
+        ]
+      }
+    },
+    "tabNavigation": {
+      "active": false,
+      "tabMenus": [
+        {
+          "id": "1",
+          "items": [
+            {
+              "subLinks": []
+            }
+          ]
+        }
+      ],
+      "tabSelectionConfig": [
+        {
+          "id": "1",
+          "regex": ""
+        }
+      ]
+    },
+    "iosPullToRefresh": true,
+    "androidPullToRefresh": true
+  },
+  "general": {
+    "userAgentAdd": "gonative",
+    "useWKWebView": true,
+    "enableWindowOpen": true,
+    "useCrosswalkWebView": false,
+    "forceScreenOrientation": null,
+    "initialUrl": "http://masukin.readyshops.net/",
+    "appName": "Masukin – Distributor Terlengkap",
+    "publicKey": "bnxzon",
+    "deviceRegKey": "g4a72hd7yxy17tdat1d1ngr5yw",
+    "replaceStrings": [],
+    "userAgentRegexes": [],
+    "iosBundleId": "io.gonative.ios.bnxzon",
+    "androidPackageName": "io.gonative.android.bnxzon"
+  }
+}
