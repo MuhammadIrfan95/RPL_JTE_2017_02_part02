@@ -55,16 +55,13 @@
       "loginIsFirstPage": false,
       "formInputs": []
     },
-    "search": {
-      "active": false
-    },
     "interceptForms": {
       "forms": []
     }
   },
   "styling": {
-    "icon": "https://gonativeio.s3.amazonaws.com/uploads/gd2vhhn2x1pag_1496734782725.png",
-    "iosHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/8tva21vtm2xqw_1496735461835.png",
+    "icon": "https://gonativeio.s3.amazonaws.com/uploads/r8kcc7dtzx40j_1496809765375.png",
+    "iosHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/ma4gka4muh1zg_1496811017682.png",
     "showActionBar": true,
     "showNavigationBar": true,
     "iosSidebarFont": "Default",
@@ -74,7 +71,7 @@
     "androidTheme": "light",
     "androidSidebarBackgroundColor": "#FFFFFF",
     "androidSidebarForegroundColor": "#777777",
-    "androidActionBarBackgroundColor": "#D6D1FF",
+    "androidActionBarBackgroundColor": "#bdbdbd",
     "androidActionBarForegroundColor": "#000000",
     "androidPullToRefreshColor": "#777777",
     "androidAccentColor": "#009688",
@@ -85,26 +82,27 @@
     "iosTitleColor": "#333333",
     "iosTintColor": "#0091fe",
     "iosSidebarTextColor": "#333333",
-    "androidStatusBarBackgroundColor": "#00A8D2",
-    "androidHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/bt3nbpvhnxpmp_1496736118300.png",
-    "hideWebviewAlpha": 0.5,
+    "androidStatusBarBackgroundColor": "#909090",
+    "androidHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/vjtxjz88zhk9y_1496811004078.png",
+    "hideWebviewAlpha": 0.6,
     "disableAnimations": false,
     "androidShowSplash": true,
     "androidLaunchImages": {
-      "mdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862205_czqjgwwm0j77y_180x180.9.png",
-      "hdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862207_c513axerdaxuy_270x270.9.png",
-      "xhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862208_0e2cuh0k0a36w_360x360.9.png",
-      "xxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862208_nmaejk9r23hmj_540x540.9.png",
-      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496734862208_1zdcfprhu1nau_720x720.9.png"
+      "mdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496810955889_re42uuu5qfmeg_180x180.9.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496810955889_0e252ufma7z1r_270x270.9.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496810955890_bj9qgqkbe3kwp_360x360.9.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496810955890_u61zpe8g8zhjm_540x540.9.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1496810955890_n10nx57b2q5xr_720x720.9.png"
     },
     "menuAnimationDuration": 0.15,
     "transitionInteractiveDelayMax": 0.2
   },
   "navigation": {
-    "androidShowRefreshButton": true,
+    "androidShowRefreshButton": false,
     "iosShowRefreshButton": false,
     "deepLinkDomains": [],
     "navigationLevels": {
+      "active": false,
       "levels": [
         null
       ]
@@ -113,12 +111,15 @@
     "ignorePageFinishedRegexes": [],
     "redirects": [],
     "navigationTitles": {
+      "active": true,
       "titles": [
-        null
+        {
+          "regex": "http://masukin.syiarislami.com/",
+          "title": "Masuk.In"
+        }
       ]
     },
     "regexInternalExternal": {
-      "active": false,
       "rules": [
         {
           "regex": "^(?!https?://).*",
@@ -189,89 +190,97 @@
           "active": true,
           "items": [
             {
-              "url": "https://masukin.readyshops.net/product-category/barang-pecah-belah/",
-              "label": "Pecah belah",
-              "icon": "fa-glass",
-              "subLinks": []
-            },
-            {
-              "url": "https://masukin.readyshops.net/product-category/elektronik/",
-              "label": "Elektronik",
-              "icon": "fa-laptop",
-              "subLinks": []
-            },
-            {
-              "url": "https://masukin.readyshops.net/product-category/mainan/",
-              "label": "Mainan",
-              "icon": "fa-bug",
-              "subLinks": []
-            },
-            {
-              "url": "https://masukin.readyshops.net/product-category/askesoris/",
-              "label": "Aksesoris",
-              "icon": "fa-heart",
-              "subLinks": []
-            },
-            {
-              "url": "https://masukin.readyshops.net/product-category/alat-masak/",
-              "label": "Alat masak",
-              "icon": "fa-cutlery",
-              "subLinks": []
-            },
-            {
-              "url": "https://masukin.readyshops.net/kontak-distributor/",
-              "label": "Kontak distributor",
+              "url": "http://masukin.syiarislami.com/akun/",
+              "label": "Akun",
               "icon": "fa-user",
               "subLinks": []
             },
             {
-              "url": "https://masukin.readyshops.net/cekresi/",
-              "label": "Cekresi",
-              "icon": "fa-book",
+              "label": "Cek Resi",
+              "url": "http://masukin.syiarislami.com/cekresi/",
+              "icon": "fa-location-arrow",
               "subLinks": []
             },
             {
-              "label": "CheckOut",
-              "url": "https://masukin.readyshops.net/Pembayaran/",
-              "icon": "fa-tag",
+              "label": "Keranjang",
+              "url": "http://masukin.syiarislami.com/keranjang/",
+              "icon": "fa-shopping-cart",
               "subLinks": []
             },
             {
-              "label": "Login",
-              "url": "https://masukin.readyshops.net/akun/",
-              "icon": "fa-user",
+              "label": "Kontak Distributor",
+              "url": "http://masukin.syiarislami.com/kontak-distributor/",
+              "icon": "fa-envelope-o",
+              "subLinks": []
+            },
+            {
+              "label": "Order",
+              "url": "http://masukin.syiarislami.com/",
+              "icon": "fa-suitcase",
+              "subLinks": []
+            },
+            {
+              "label": "Pembayaran",
+              "url": "http://masukin.syiarislami.com/pembayaran/",
+              "icon": "fa-barcode",
               "subLinks": []
             }
           ]
         },
         {
           "name": "loggedIn",
-          "active": false,
+          "active": true,
           "items": [
             {
-              "url": "https://masukin.readyshops.net/pembayaran/",
-              "label": "Checkout",
+              "url": "http://masukin.syiarislami.com/akun/",
+              "label": "Akun",
+              "icon": "fa-user",
               "subLinks": []
             },
             {
-              "url": "https://masukin.readyshops.net/akun/",
-              "label": "Login",
+              "label": "Cek Resi",
+              "url": "http://masukin.syiarislami.com/cekresi/",
+              "icon": "fa-location-arrow",
+              "subLinks": []
+            },
+            {
+              "label": "Keranjang",
+              "url": "http://masukin.syiarislami.com/keranjang/",
+              "icon": "fa-shopping-cart",
+              "subLinks": []
+            },
+            {
+              "label": "Kontak Distributor",
+              "url": "http://masukin.syiarislami.com/kontak-distributor/",
+              "icon": "fa-envelope-o",
+              "subLinks": []
+            },
+            {
+              "label": "Order",
+              "url": "http://masukin.syiarislami.com/",
+              "icon": "fa-suitcase",
+              "subLinks": []
+            },
+            {
+              "label": "Pembayaran",
+              "url": "http://masukin.syiarislami.com/pembayaran/",
+              "icon": "fa-barcode",
               "subLinks": []
             }
           ]
         }
       ],
       "menuSelectionConfig": {
-        "testURL": null,
+        "testURL": "http://masukin.syiarislami.com/akun/",
         "redirectLocations": [
           {
-            "regex": null,
+            "regex": "http://masukin.syiarislami.com/akun/",
             "menuName": "default",
             "loggedIn": false
           },
           {
             "regex": ".*",
-            "menuName": "default",
+            "menuName": "loggedIn",
             "loggedIn": true
           }
         ]
@@ -297,7 +306,7 @@
       ]
     },
     "iosPullToRefresh": true,
-    "androidPullToRefresh": true
+    "androidPullToRefresh": false
   },
   "general": {
     "userAgentAdd": "gonative",
@@ -305,13 +314,13 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "http://masukin.readyshops.net/",
-    "appName": "Masukin – Distributor Terlengkap",
-    "publicKey": "bnxzon",
-    "deviceRegKey": "g4a72hd7yxy17tdat1d1ngr5yw",
+    "initialUrl": "http://masukin.syiarislami.com/",
+    "appName": "Masuk.In",
+    "publicKey": "dydjlw",
+    "deviceRegKey": "afaqxndwwhnb61uaegvwvz6j4g",
     "replaceStrings": [],
     "userAgentRegexes": [],
-    "iosBundleId": "io.gonative.ios.bnxzon",
-    "androidPackageName": "io.gonative.android.bnxzon"
+    "iosBundleId": "io.gonative.ios.dydjlw",
+    "androidPackageName": "io.gonative.android.dydjlw"
   }
 }
