@@ -35,13 +35,13 @@
 		<?php } else {  ?> 
 			<?php switch($columns) {
 				case 2:
-					$col = 'two';
+					$col = 'dua';
 					break;
 				case 3:
-					$col = 'three';
+					$col = 'tiga';
 					break;
 				case 4:
-					$col = 'four';
+					$col = 'empat';
 					break;
 			} ?>
 		<div class="products row <?php echo esc_attr($col);?>-columns" data-equal=">.product-category">
